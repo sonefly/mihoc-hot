@@ -1,0 +1,89 @@
+name: Hourly Collect Trending Data
+
+on:
+  schedule:
+    - cron: '30 * * * *'  # 每小时第30分钟运行
+  workflow_dispatch:       # 支持手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install trend-pulse scrapling
+
+      - name: Run collector
+        run: |
+          python -c "
+          import sys, json, asyncio, io, os
+          sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
+          os.makedirs('data', exist_ok=True)
+
+          # Global sources via trend-pulse
+          from trend_pulse.aggregator import TrendAggregator
+          agg = TrendAggregator()
+          GLOBAL = ['hackernews','github','stackoverflow','google_trends','wikipedia','bluesky','devto','lobsters','dockerhub','npm','pypi','coingecko']
+          results = asyncio.run(agg.trending(sources=GLOBAL, count=15))
+          sources = results.get('sources', {})
+          global_data = []
+          for name, items in sources.items():
+              if not isinstance(items, list): items = items.get('items', [])
+              for item in items:
+                  global_data.append({
+                      'keyword': item.get('keyword', ''),
+                      'source': name,
+                      'url': item.get('url', ''),
+                      'score': round(item.get('score', 0), 1),
+                      'traffic': item.get('traffic', ''),
+                      'category': item.get('category', ''),
+                      'metadata': item.get('metadata', {}),
+                  })
+
+          # WeChat via Scrapling
+          from scrapling.fetchers import Fetcher
+          page = Fetcher.get('https://tophub.today/n/wWmoO5Rd4E', stealthy_headers=True, timeout=20)
+          links = page.css('a[href]')
+          wechat_data = []
+          seen = set()
+          for link in links:
+              text = link.css('::text').get()
+              href = link.attrib.get('href', '')
+              if text and len(text.strip()) > 10 and text.strip() not in seen:
+                  seen.add(text.strip())
+                  wechat_data.append({'keyword': text.strip(), 'source': 'wechat', 'url': href, 'score': 0, 'traffic': '', 'category': 'news', 'metadata': {}})
+          wechat_data = wechat_data[:20]
+
+          from datetime import datetime, timezone, timedelta
+          tz = timezone(timedelta(hours=8))
+          now = datetime.now(tz).isoformat()
+
+          output = {
+              'updated': now,
+              'source_count': {'global': len(set(d['source'] for d in global_data)), 'wechat': 1},
+              'total_items': len(global_data) + len(wechat_data),
+              'global': global_data,
+              'wechat': wechat_data,
+          }
+
+          with open('data/trending.json', 'w', encoding='utf-8') as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
+
+          print(f'Collected: {output[\"total_items\"]} items from {output[\"source_count\"][\"global\"]}+{output[\"source_count\"][\"wechat\"]} sources')
+          "
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "auto: update trending data [skip ci]"
+          file_pattern: 'data/trending.json'
