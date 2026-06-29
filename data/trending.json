@@ -1,50 +1,78 @@
 {
-  "updated": "2026-06-30T05:48:45.182653+08:00",
+  "updated": "2026-06-30T07:31:20.480820+08:00",
   "source_count": {
-    "global": 11,
+    "global": 10,
     "wechat": 1
   },
-  "total_items": 178,
+  "total_items": 164,
   "global": [
-    {
-      "keyword": "Qwen 3.6 27B is the sweet spot for local development",
-      "source": "hackernews",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 90.2,
-      "traffic": "451 points",
-      "category": "tech",
-      "metadata": {
-        "id": 48721903,
-        "by": "stared",
-        "comments": 403,
-        "hn_url": "https://news.ycombinator.com/item?id=48721903"
-      }
-    },
     {
       "keyword": ".self: A new top-level domain designed to support self-hosting",
       "source": "hackernews",
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 18.4,
-      "traffic": "92 points",
+      "score": 45.2,
+      "traffic": "226 points",
       "category": "tech",
       "metadata": {
         "id": 48724230,
         "by": "HumanCCF",
-        "comments": 81,
+        "comments": 138,
         "hn_url": "https://news.ycombinator.com/item?id=48724230"
+      }
+    },
+    {
+      "keyword": "Qwen 3.6 27B is the sweet spot for local development",
+      "source": "hackernews",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "score": 100,
+      "traffic": "529 points",
+      "category": "tech",
+      "metadata": {
+        "id": 48721903,
+        "by": "stared",
+        "comments": 465,
+        "hn_url": "https://news.ycombinator.com/item?id=48721903"
+      }
+    },
+    {
+      "keyword": "Free the Icons",
+      "source": "hackernews",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "score": 21.2,
+      "traffic": "106 points",
+      "category": "tech",
+      "metadata": {
+        "id": 48698908,
+        "by": "zdw",
+        "comments": 20,
+        "hn_url": "https://news.ycombinator.com/item?id=48698908"
+      }
+    },
+    {
+      "keyword": "Scientists find molecular-level evidence for two structures in liquid water",
+      "source": "hackernews",
+      "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+      "score": 5.2,
+      "traffic": "26 points",
+      "category": "tech",
+      "metadata": {
+        "id": 48726073,
+        "by": "wglb",
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48726073"
       }
     },
     {
       "keyword": "Rocketlab acquires Iridium",
       "source": "hackernews",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 63.2,
-      "traffic": "316 points",
+      "score": 67.8,
+      "traffic": "339 points",
       "category": "tech",
       "metadata": {
         "id": 48719485,
         "by": "everfrustrated",
-        "comments": 190,
+        "comments": 207,
         "hn_url": "https://news.ycombinator.com/item?id=48719485"
       }
     },
@@ -52,13 +80,13 @@
       "keyword": "Ornith-1.0: self-improving open-source models for agentic coding",
       "source": "hackernews",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 20.8,
-      "traffic": "104 points",
+      "score": 26.0,
+      "traffic": "130 points",
       "category": "tech",
       "metadata": {
         "id": 48722052,
         "by": "danboarder",
-        "comments": 27,
+        "comments": 30,
         "hn_url": "https://news.ycombinator.com/item?id=48722052"
       }
     },
@@ -66,154 +94,126 @@
       "keyword": "A native graphical shell for SSH",
       "source": "hackernews",
       "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "score": 38.4,
-      "traffic": "192 points",
+      "score": 43.2,
+      "traffic": "216 points",
       "category": "tech",
       "metadata": {
         "id": 48720758,
         "by": "mrcslws",
-        "comments": 83,
+        "comments": 101,
         "hn_url": "https://news.ycombinator.com/item?id=48720758"
-      }
-    },
-    {
-      "keyword": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "source": "hackernews",
-      "url": "https://humphri.es/blog/WATaBoy/",
-      "score": 31.4,
-      "traffic": "157 points",
-      "category": "tech",
-      "metadata": {
-        "id": 48720190,
-        "by": "energeticbark",
-        "comments": 23,
-        "hn_url": "https://news.ycombinator.com/item?id=48720190"
-      }
-    },
-    {
-      "keyword": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-      "source": "hackernews",
-      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-      "score": 6.8,
-      "traffic": "34 points",
-      "category": "tech",
-      "metadata": {
-        "id": 48722802,
-        "by": "matt_d",
-        "comments": 10,
-        "hn_url": "https://news.ycombinator.com/item?id=48722802"
-      }
-    },
-    {
-      "keyword": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
-      "source": "hackernews",
-      "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
-      "score": 15.8,
-      "traffic": "79 points",
-      "category": "tech",
-      "metadata": {
-        "id": 48683475,
-        "by": "chantepierre",
-        "comments": 11,
-        "hn_url": "https://news.ycombinator.com/item?id=48683475"
-      }
-    },
-    {
-      "keyword": "JumpServer: Open-Source Privileged Access Management",
-      "source": "hackernews",
-      "url": "https://github.com/jumpserver/jumpserver",
-      "score": 6.2,
-      "traffic": "31 points",
-      "category": "tech",
-      "metadata": {
-        "id": 48723677,
-        "by": "neitsab",
-        "comments": 7,
-        "hn_url": "https://news.ycombinator.com/item?id=48723677"
       }
     },
     {
       "keyword": "US Supreme Court rules geofence warrants require constitutional protections",
       "source": "hackernews",
       "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "score": 67.2,
-      "traffic": "336 points",
+      "score": 76.6,
+      "traffic": "383 points",
       "category": "tech",
       "metadata": {
         "id": 48720924,
         "by": "cdrnsf",
-        "comments": 152,
+        "comments": 176,
         "hn_url": "https://news.ycombinator.com/item?id=48720924"
       }
     },
     {
-      "keyword": "What happens when you run a CUDA kernel?",
+      "keyword": "Wallace the 6 inch f/2.8 telescope, building it, and hiking with it",
       "source": "hackernews",
-      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-      "score": 36.0,
-      "traffic": "180 points",
+      "url": "https://lucassifoni.info/blog/hiking-with-wallace/",
+      "score": 19.0,
+      "traffic": "95 points",
       "category": "tech",
       "metadata": {
-        "id": 48718863,
-        "by": "mezark",
-        "comments": 17,
-        "hn_url": "https://news.ycombinator.com/item?id=48718863"
+        "id": 48683475,
+        "by": "chantepierre",
+        "comments": 18,
+        "hn_url": "https://news.ycombinator.com/item?id=48683475"
+      }
+    },
+    {
+      "keyword": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "source": "hackernews",
+      "url": "https://humphri.es/blog/WATaBoy/",
+      "score": 33.4,
+      "traffic": "167 points",
+      "category": "tech",
+      "metadata": {
+        "id": 48720190,
+        "by": "energeticbark",
+        "comments": 26,
+        "hn_url": "https://news.ycombinator.com/item?id=48720190"
+      }
+    },
+    {
+      "keyword": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "source": "hackernews",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "score": 6.8,
+      "traffic": "34 points",
+      "category": "tech",
+      "metadata": {
+        "id": 48726102,
+        "by": "jnord",
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=48726102"
+      }
+    },
+    {
+      "keyword": "JumpServer: Open-Source Privileged Access Management",
+      "source": "hackernews",
+      "url": "https://github.com/jumpserver/jumpserver",
+      "score": 9.0,
+      "traffic": "45 points",
+      "category": "tech",
+      "metadata": {
+        "id": 48723677,
+        "by": "neitsab",
+        "comments": 13,
+        "hn_url": "https://news.ycombinator.com/item?id=48723677"
       }
     },
     {
       "keyword": "Apple Neural Engine: Architecture, Programming, and Performance",
       "source": "hackernews",
       "url": "https://arxiv.org/abs/2606.22283",
-      "score": 12.8,
-      "traffic": "64 points",
+      "score": 17.0,
+      "traffic": "85 points",
       "category": "tech",
       "metadata": {
         "id": 48702825,
         "by": "Jimmc414",
-        "comments": 3,
+        "comments": 12,
         "hn_url": "https://news.ycombinator.com/item?id=48702825"
       }
     },
     {
-      "keyword": "Working With AI: A concrete example",
+      "keyword": "What happens when you run a CUDA kernel?",
       "source": "hackernews",
-      "url": "https://htmx.org/essays/working-with-ai/",
-      "score": 9.2,
-      "traffic": "46 points",
+      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+      "score": 38.4,
+      "traffic": "192 points",
       "category": "tech",
       "metadata": {
-        "id": 48720064,
-        "by": "comma_at",
-        "comments": 12,
-        "hn_url": "https://news.ycombinator.com/item?id=48720064"
+        "id": 48718863,
+        "by": "mezark",
+        "comments": 24,
+        "hn_url": "https://news.ycombinator.com/item?id=48718863"
       }
     },
     {
-      "keyword": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+      "keyword": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
       "source": "hackernews",
-      "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
-      "score": 57.8,
-      "traffic": "289 points",
+      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+      "score": 8.2,
+      "traffic": "41 points",
       "category": "tech",
       "metadata": {
-        "id": 48721072,
-        "by": "Brajeshwar",
-        "comments": 74,
-        "hn_url": "https://news.ycombinator.com/item?id=48721072"
-      }
-    },
-    {
-      "keyword": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
-      "source": "hackernews",
-      "url": "https://deep-reinforce.com/ornith_1_0.html",
-      "score": 7.8,
-      "traffic": "39 points",
-      "category": "tech",
-      "metadata": {
-        "id": 48709744,
-        "by": "kordlessagain",
-        "comments": 6,
-        "hn_url": "https://news.ycombinator.com/item?id=48709744"
+        "id": 48722802,
+        "by": "matt_d",
+        "comments": 11,
+        "hn_url": "https://news.ycombinator.com/item?id=48722802"
       }
     },
     {
@@ -235,12 +235,12 @@
       "source": "github",
       "url": "https://github.com/sponsors/msitarzewski",
       "score": 100,
-      "traffic": "1221 stars today (0 total)",
+      "traffic": "1369 stars today (0 total)",
       "category": "tech",
       "metadata": {
         "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
         "language": "Shell",
-        "stars_today": 1221,
+        "stars_today": 1369,
         "total_stars": 0
       }
     },
@@ -427,11 +427,82 @@
       }
     },
     {
+      "keyword": "Structuring and compiling a large project using cmake and c++",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79970490/structuring-and-compiling-a-large-project-using-cmake-and-c",
+      "score": 0.2,
+      "traffic": "30 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "c++",
+          "cmake"
+        ],
+        "answer_count": 2,
+        "is_answered": false,
+        "owner": "gostke"
+      }
+    },
+    {
+      "keyword": "OAuth - Is it possible for the backend to change the RedirectURI?",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79970500/oauth-is-it-possible-for-the-backend-to-change-the-redirecturi",
+      "score": 0.0,
+      "traffic": "16 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "angular",
+          "oauth-2.0",
+          "duende-identity-server"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "Brian Kitt"
+      }
+    },
+    {
+      "keyword": "Nil return from a function",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79970492/nil-return-from-a-function",
+      "score": 0.0,
+      "traffic": "14 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "function",
+          "lua",
+          "opencomputers"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "Jeremy Cools"
+      }
+    },
+    {
+      "keyword": "Best AI Tool for Digital Marketing",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79970435/best-ai-tool-for-digital-marketing",
+      "score": 0.2,
+      "traffic": "86 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "artificial-intelligence",
+          "seo",
+          "business-intelligence"
+        ],
+        "answer_count": 3,
+        "is_answered": true,
+        "owner": "FutureFinders"
+      }
+    },
+    {
       "keyword": "How do I align the buttons I made using <a> inside of <ul> to be spaced evenly both vertically and horizontally?",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79970470/how-do-i-align-the-buttons-i-made-using-a-inside-of-ul-to-be-spaced-evenly-b",
       "score": 0.0,
-      "traffic": "41 views",
+      "traffic": "51 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -440,46 +511,9 @@
           "list",
           "alignment"
         ],
-        "answer_count": 1,
+        "answer_count": 2,
         "is_answered": true,
         "owner": "barman"
-      }
-    },
-    {
-      "keyword": "C# JSON Deserialized object JsonPropertyName retained",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79970473/c-json-deserialized-object-jsonpropertyname-retained",
-      "score": 0.0,
-      "traffic": "32 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "c#",
-          "json",
-          "webapi",
-          "system.text.json"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "John Rousseau"
-      }
-    },
-    {
-      "keyword": "Learning WinTAK",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79970457/learning-wintak",
-      "score": 0.0,
-      "traffic": "46 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "python",
-          "c#",
-          "gis"
-        ],
-        "answer_count": 1,
-        "is_answered": true,
-        "owner": "Alex Groenewold"
       }
     },
     {
@@ -487,7 +521,7 @@
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79970452/floating-window-with-python-on-macos",
       "score": 0.0,
-      "traffic": "46 views",
+      "traffic": "53 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -501,11 +535,48 @@
       }
     },
     {
+      "keyword": "Learning WinTAK",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79970457/learning-wintak",
+      "score": 0.0,
+      "traffic": "52 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "python",
+          "c#",
+          "gis"
+        ],
+        "answer_count": 1,
+        "is_answered": true,
+        "owner": "Alex Groenewold"
+      }
+    },
+    {
+      "keyword": "C# JSON Deserialized object JsonPropertyName retained",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79970473/c-json-deserialized-object-jsonpropertyname-retained",
+      "score": 0.0,
+      "traffic": "49 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "c#",
+          "json",
+          "webapi",
+          "system.text.json"
+        ],
+        "answer_count": 1,
+        "is_answered": false,
+        "owner": "John Rousseau"
+      }
+    },
+    {
       "keyword": "Google Admobのapp-ads.txtについて",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79970461/google-admob%e3%81%aeapp-ads-txt%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6",
       "score": -1.0,
-      "traffic": "53 views",
+      "traffic": "58 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -517,11 +588,28 @@
       }
     },
     {
+      "keyword": "Only final project in Project Group (bpg) runs correctly",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79970406/only-final-project-in-project-group-bpg-runs-correctly",
+      "score": -0.8,
+      "traffic": "66 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "delphi",
+          "delphi-7"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "AlainD"
+      }
+    },
+    {
       "keyword": "How to pass HTTP proxy system properties to Gradle Test Executor",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79970444/how-to-pass-http-proxy-system-properties-to-gradle-test-executor",
       "score": 0.0,
-      "traffic": "43 views",
+      "traffic": "45 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -535,29 +623,11 @@
       }
     },
     {
-      "keyword": "Best AI Tool for Digital Marketing",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79970435/best-ai-tool-for-digital-marketing",
-      "score": 0.0,
-      "traffic": "77 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "artificial-intelligence",
-          "seo",
-          "business-intelligence"
-        ],
-        "answer_count": 1,
-        "is_answered": true,
-        "owner": "FutureFinders"
-      }
-    },
-    {
       "keyword": "How to make the trim of the div with clip-path independent from the height of the div?",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79970417/how-to-make-the-trim-of-the-div-with-clip-path-independent-from-the-height-of-th",
       "score": 0.0,
-      "traffic": "74 views",
+      "traffic": "76 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -570,28 +640,11 @@
       }
     },
     {
-      "keyword": "Only final project in Project Group (bpg) runs correctly",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79970406/only-final-project-in-project-group-bpg-runs-correctly",
-      "score": -0.8,
-      "traffic": "63 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "delphi",
-          "delphi-7"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "AlainD"
-      }
-    },
-    {
       "keyword": "How can I export paths generated by node.js path module without it changing",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79970439/how-can-i-export-paths-generated-by-node-js-path-module-without-it-changing",
       "score": -0.2,
-      "traffic": "51 views",
+      "traffic": "55 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -607,7 +660,7 @@
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79970426/want-to-test-two-php-installs-updating-from-7-4-to-8-0",
       "score": -0.8,
-      "traffic": "50 views",
+      "traffic": "53 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -620,79 +673,24 @@
       }
     },
     {
-      "keyword": "I am not able to login to my Sencha forum account to use Sencha Inspector",
+      "keyword": "Why doesn't std::filesystem::file_status contain the file size, given that stat() provides it?",
       "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79970425/i-am-not-able-to-login-to-my-sencha-forum-account-to-use-sencha-inspector",
-      "score": -1.0,
-      "traffic": "43 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "extjs"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "Ismail"
-      }
-    },
-    {
-      "keyword": "Template fails to auto convert argument `const char *` to `const std::string &",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79970289/template-fails-to-auto-convert-argument-const-char-to-const-stdstring",
-      "score": 0.0,
-      "traffic": "125 views",
+      "url": "https://stackoverflow.com/questions/79970240/why-doesnt-stdfilesystemfile-status-contain-the-file-size-given-that-stat",
+      "score": 0.4,
+      "traffic": "146 views",
       "category": "tech",
       "metadata": {
         "tags": [
           "c++",
-          "templates",
-          "gcc"
+          "c++17"
         ],
-        "answer_count": 1,
+        "answer_count": 3,
         "is_answered": true,
-        "owner": "PapaAtHome"
+        "owner": "Radistal"
       }
     },
     {
-      "keyword": "Tampermonkey script fails after website JavaScript changes — how to detect and adapt dynamically?",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79970412/tampermonkey-script-fails-after-website-javascript-changes-how-to-detect-and-a",
-      "score": -1.0,
-      "traffic": "60 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "javascript",
-          "reverse-engineering",
-          "greasemonkey",
-          "code-injection",
-          "tampermonkey"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "user32886688"
-      }
-    },
-    {
-      "keyword": "Add URL parameter to forms.ModelForm object and pass to html template",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79970397/add-url-parameter-to-forms-modelform-object-and-pass-to-html-template",
-      "score": 0.0,
-      "traffic": "46 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "python",
-          "html",
-          "django"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "Oto Shavadze"
-      }
-    },
-    {
-      "keyword": "nc jail inmate takeover",
+      "keyword": "neuer",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -704,7 +702,7 @@
       }
     },
     {
-      "keyword": "alemanha x paraguai",
+      "keyword": "padres vs cubs",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -716,7 +714,7 @@
       }
     },
     {
-      "keyword": "jonathan kuminga",
+      "keyword": "kristaps porzingis",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -728,7 +726,7 @@
       }
     },
     {
-      "keyword": "monaco",
+      "keyword": "neuer germany",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -740,7 +738,7 @@
       }
     },
     {
-      "keyword": "landry shamet",
+      "keyword": "walker kessler",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -752,7 +750,7 @@
       }
     },
     {
-      "keyword": "jrue holiday",
+      "keyword": "pima county sheriff's department",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -764,7 +762,7 @@
       }
     },
     {
-      "keyword": "deni avdija",
+      "keyword": "carl rinsch",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -776,7 +774,7 @@
       }
     },
     {
-      "keyword": "jetblue jfk airport drone collision",
+      "keyword": "matias galarza",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -788,7 +786,7 @@
       }
     },
     {
-      "keyword": "boston weather",
+      "keyword": "bovada",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -800,7 +798,7 @@
       }
     },
     {
-      "keyword": "antonio rüdiger",
+      "keyword": "reds vs brewers",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -809,13 +807,79 @@
       "metadata": {
         "news": [],
         "geo": ""
+      }
+    },
+    {
+      "keyword": "Ken Paxton",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=Ken Paxton",
+      "score": 100,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/trending.bsky.app/feed/775915972"
+      }
+    },
+    {
+      "keyword": "Military Legislation",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=Military Legislation",
+      "score": 95,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/trending.bsky.app/feed/775965264"
+      }
+    },
+    {
+      "keyword": "Madonna",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=Madonna",
+      "score": 90,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/trending.bsky.app/feed/775972616"
+      }
+    },
+    {
+      "keyword": "World Cup",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=World Cup",
+      "score": 85,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/trending.bsky.app/feed/775934542"
+      }
+    },
+    {
+      "keyword": "VAR Controversy",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=VAR Controversy",
+      "score": 80,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/trending.bsky.app/feed/775970838"
+      }
+    },
+    {
+      "keyword": "Persona Series",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=Persona Series",
+      "score": 75,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/trending.bsky.app/feed/775897871"
       }
     },
     {
       "keyword": "Paraguay vs Germany",
       "source": "bluesky",
       "url": "https://bsky.app/search?q=Paraguay vs Germany",
-      "score": 100,
+      "score": 70,
       "traffic": "",
       "category": "social",
       "metadata": {
@@ -826,7 +890,7 @@
       "keyword": "Brazilian Miku",
       "source": "bluesky",
       "url": "https://bsky.app/search?q=Brazilian Miku",
-      "score": 95,
+      "score": 65,
       "traffic": "",
       "category": "social",
       "metadata": {
@@ -837,7 +901,7 @@
       "keyword": "Ja Morant",
       "source": "bluesky",
       "url": "https://bsky.app/search?q=Ja Morant",
-      "score": 90,
+      "score": 60,
       "traffic": "",
       "category": "social",
       "metadata": {
@@ -848,77 +912,11 @@
       "keyword": "Dr. Oz",
       "source": "bluesky",
       "url": "https://bsky.app/search?q=Dr. Oz",
-      "score": 85,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/trending.bsky.app/feed/775691703"
-      }
-    },
-    {
-      "keyword": "Lions",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=Lions",
-      "score": 80,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/trending.bsky.app/feed/775805651"
-      }
-    },
-    {
-      "keyword": "Fox News Critique",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=Fox News Critique",
-      "score": 75,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/trending.bsky.app/feed/775633573"
-      }
-    },
-    {
-      "keyword": "Martinelli",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=Martinelli",
-      "score": 70,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/trending.bsky.app/feed/775725385"
-      }
-    },
-    {
-      "keyword": "Neymar",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=Neymar",
-      "score": 65,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/trending.bsky.app/feed/775701429"
-      }
-    },
-    {
-      "keyword": "Casemiro",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=Casemiro",
-      "score": 60,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/trending.bsky.app/feed/775610461"
-      }
-    },
-    {
-      "keyword": "The Archers",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=The Archers",
       "score": 55,
       "traffic": "",
       "category": "social",
       "metadata": {
-        "link": "/profile/trending.bsky.app/feed/775669313"
+        "link": "/profile/trending.bsky.app/feed/775691703"
       }
     },
     {
@@ -939,7 +937,7 @@
       "source": "bluesky",
       "url": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.feed.generator/with-friends",
       "score": 100,
-      "traffic": "41199 likes",
+      "traffic": "41200 likes",
       "category": "feed",
       "metadata": {
         "type": "feed",
@@ -965,7 +963,7 @@
       "source": "bluesky",
       "url": "at://did:plc:jfhpnnst6flqway4eaeqzj2a/app.bsky.feed.generator/for-science",
       "score": 100,
-      "traffic": "29376 likes",
+      "traffic": "29375 likes",
       "category": "feed",
       "metadata": {
         "type": "feed",
@@ -990,8 +988,8 @@
       "keyword": "Welcome to AI Engineer World’s Fair 2026",
       "source": "devto",
       "url": "https://dev.to/dailycontext/welcome-to-ai-engineer-worlds-fair-2026-2o09",
-      "score": 9.6,
-      "traffic": "48 reactions",
+      "score": 10.8,
+      "traffic": "54 reactions",
       "category": "tech",
       "metadata": {
         "id": 4000790,
@@ -1009,12 +1007,12 @@
       "keyword": "Need a break? Play today's game from The Daily Context.",
       "source": "devto",
       "url": "https://dev.to/devteam/need-a-break-play-todays-game-from-the-daily-context-1fli",
-      "score": 6.4,
-      "traffic": "32 reactions",
+      "score": 8.4,
+      "traffic": "42 reactions",
       "category": "tech",
       "metadata": {
         "id": 4024781,
-        "comments": 7,
+        "comments": 13,
         "author": "jess",
         "tags": [
           "aie",
@@ -1033,7 +1031,7 @@
       "category": "tech",
       "metadata": {
         "id": 4015354,
-        "comments": 82,
+        "comments": 84,
         "author": "sylwia-lask",
         "tags": [
           "ai",
@@ -1088,13 +1086,32 @@
       "category": "tech",
       "metadata": {
         "id": 4012069,
-        "comments": 28,
+        "comments": 30,
         "author": "dannwaneri",
         "tags": [
           "ai",
           "webdev",
           "beginners",
           "discuss"
+        ]
+      }
+    },
+    {
+      "keyword": "The Model Does Not Need Memory. The Situation Does.",
+      "source": "devto",
+      "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g",
+      "score": 7.6,
+      "traffic": "38 reactions",
+      "category": "tech",
+      "metadata": {
+        "id": 4021718,
+        "comments": 11,
+        "author": "marcosomma",
+        "tags": [
+          "ai",
+          "rag",
+          "mcp",
+          "llm"
         ]
       }
     },
@@ -1114,25 +1131,6 @@
           "aie",
           "productivity",
           "leadership"
-        ]
-      }
-    },
-    {
-      "keyword": "The Model Does Not Need Memory. The Situation Does.",
-      "source": "devto",
-      "url": "https://dev.to/marcosomma/the-model-does-not-need-memory-the-situation-does-196g",
-      "score": 7.4,
-      "traffic": "37 reactions",
-      "category": "tech",
-      "metadata": {
-        "id": 4021718,
-        "comments": 9,
-        "author": "marcosomma",
-        "tags": [
-          "ai",
-          "rag",
-          "mcp",
-          "llm"
         ]
       }
     },
@@ -1175,8 +1173,8 @@
       "keyword": "🗓️ Monthly Dev Report: June 2026",
       "source": "devto",
       "url": "https://dev.to/francistrdev/monthly-dev-report-june-2026-530a",
-      "score": 6.0,
-      "traffic": "30 reactions",
+      "score": 6.4,
+      "traffic": "32 reactions",
       "category": "tech",
       "metadata": {
         "id": 4000963,
@@ -1228,24 +1226,6 @@
       }
     },
     {
-      "keyword": "Two-day hackathon kicks off AI Engineer World’s Fair",
-      "source": "devto",
-      "url": "https://dev.to/dailycontext/two-day-hackathon-kicks-off-ai-engineer-worlds-fair-2l1d",
-      "score": 5.0,
-      "traffic": "25 reactions",
-      "category": "tech",
-      "metadata": {
-        "id": 4023138,
-        "comments": 2,
-        "author": "iain_thomson",
-        "tags": [
-          "aie",
-          "ai",
-          "hackathon"
-        ]
-      }
-    },
-    {
       "keyword": "TanStack Query style caching, the Angular-native way",
       "source": "devto",
       "url": "https://dev.to/dhutaryan/tanstack-query-style-caching-the-angular-native-way-4igc",
@@ -1265,15 +1245,33 @@
       }
     },
     {
+      "keyword": "JavaScript still can't ship a full-stack module",
+      "source": "devto",
+      "url": "https://dev.to/wasp/javascript-still-cant-ship-a-full-stack-module-ijn",
+      "score": 4.2,
+      "traffic": "21 reactions",
+      "category": "tech",
+      "metadata": {
+        "id": 4020931,
+        "comments": 5,
+        "author": "vincanger",
+        "tags": [
+          "fullstack",
+          "webdev",
+          "npm"
+        ]
+      }
+    },
+    {
       "keyword": "When Impressive Performance Gains Do Not Matter",
       "source": "lobsters",
       "url": "https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/",
-      "score": 15.0,
-      "traffic": "45 points",
+      "score": 17.0,
+      "traffic": "51 points",
       "category": "tech",
       "metadata": {
         "id": "fok2dp",
-        "comments": 13,
+        "comments": 17,
         "submitter": "lalitm",
         "tags": [
           "performance"
@@ -1284,8 +1282,8 @@
       "keyword": "What is `std::pin::Pin` in Rust?",
       "source": "lobsters",
       "url": "https://vrong.me/blog/what-is-pinning-in-rust/",
-      "score": 4.0,
-      "traffic": "12 points",
+      "score": 4.7,
+      "traffic": "14 points",
       "category": "tech",
       "metadata": {
         "id": "ltzfkv",
@@ -1300,8 +1298,8 @@
       "keyword": "Loko Scheme 0.13.0",
       "source": "lobsters",
       "url": "https://weinholt.se/articles/loko-scheme-0-13-0/",
-      "score": 8.7,
-      "traffic": "26 points",
+      "score": 9.3,
+      "traffic": "28 points",
       "category": "tech",
       "metadata": {
         "id": "uofjjs",
@@ -1314,11 +1312,27 @@
       }
     },
     {
+      "keyword": "WATaBoy: JIT-ing Game Boy Instructions to Wasm Beats a Native Interpreter",
+      "source": "lobsters",
+      "url": "https://humphri.es/blog/WATaBoy/",
+      "score": 8.0,
+      "traffic": "24 points",
+      "category": "tech",
+      "metadata": {
+        "id": "krqeoc",
+        "comments": 0,
+        "submitter": "jaredkrinke",
+        "tags": [
+          "wasm"
+        ]
+      }
+    },
+    {
       "keyword": "Ante: New Way to Blend Borrow Checking and Reference Counting",
       "source": "lobsters",
       "url": "https://verdagon.dev/blog/ante-blending-borrowing-rc",
-      "score": 19.0,
-      "traffic": "57 points",
+      "score": 20.3,
+      "traffic": "61 points",
       "category": "tech",
       "metadata": {
         "id": "vv4fhi",
@@ -1327,22 +1341,6 @@
         "tags": [
           "compsci",
           "plt"
-        ]
-      }
-    },
-    {
-      "keyword": "WATaBoy: JIT-ing Game Boy Instructions to Wasm Beats a Native Interpreter",
-      "source": "lobsters",
-      "url": "https://humphri.es/blog/WATaBoy/",
-      "score": 6.7,
-      "traffic": "20 points",
-      "category": "tech",
-      "metadata": {
-        "id": "krqeoc",
-        "comments": 0,
-        "submitter": "jaredkrinke",
-        "tags": [
-          "wasm"
         ]
       }
     },
@@ -1364,6 +1362,54 @@
       }
     },
     {
+      "keyword": "What's wrong with EU age verification? (Nothing)",
+      "source": "lobsters",
+      "url": "https://blog.vrypan.net/2026/06/29/260629-whats-wrong-with-eu-age-verification/",
+      "score": 0.7,
+      "traffic": "2 points",
+      "category": "tech",
+      "metadata": {
+        "id": "29laqs",
+        "comments": 5,
+        "submitter": "vrypan",
+        "tags": [
+          "privacy"
+        ]
+      }
+    },
+    {
+      "keyword": "Type-checked non-empty strings",
+      "source": "lobsters",
+      "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
+      "score": 3.7,
+      "traffic": "11 points",
+      "category": "tech",
+      "metadata": {
+        "id": "r1uxyo",
+        "comments": 1,
+        "submitter": "pushcx",
+        "tags": [
+          "haskell"
+        ]
+      }
+    },
+    {
+      "keyword": "The AT-URI Syntax Mess",
+      "source": "lobsters",
+      "url": "https://bnewbold.leaflet.pub/3mph4hzvbdc2v",
+      "score": 2.3,
+      "traffic": "7 points",
+      "category": "tech",
+      "metadata": {
+        "id": "7fjqgc",
+        "comments": 0,
+        "submitter": "hongminhee",
+        "tags": [
+          "web"
+        ]
+      }
+    },
+    {
       "keyword": "Evaluation order and nontermination in query languages",
       "source": "lobsters",
       "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
@@ -1381,43 +1427,11 @@
       }
     },
     {
-      "keyword": "Type-checked non-empty strings",
-      "source": "lobsters",
-      "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
-      "score": 3.0,
-      "traffic": "9 points",
-      "category": "tech",
-      "metadata": {
-        "id": "r1uxyo",
-        "comments": 1,
-        "submitter": "pushcx",
-        "tags": [
-          "haskell"
-        ]
-      }
-    },
-    {
-      "keyword": "“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu",
-      "source": "lobsters",
-      "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
-      "score": 30.0,
-      "traffic": "90 points",
-      "category": "tech",
-      "metadata": {
-        "id": "tw0v1d",
-        "comments": 0,
-        "submitter": "asymmetric",
-        "tags": [
-          "privacy"
-        ]
-      }
-    },
-    {
       "keyword": "Typst: Designing for Incrementality",
       "source": "lobsters",
       "url": "https://youtu.be/yWWVhbyOWWE",
-      "score": 4.0,
-      "traffic": "12 points",
+      "score": 4.3,
+      "traffic": "13 points",
       "category": "tech",
       "metadata": {
         "id": "hj0exw",
@@ -1430,17 +1444,34 @@
       }
     },
     {
-      "keyword": "The AT-URI Syntax Mess",
+      "keyword": "“Double Threat” to Private Communications: Undemocratic Chat Control Backroom Deals and Imminent Concessions Spark Relaunch of fightchatcontrol.eu",
       "source": "lobsters",
-      "url": "https://bnewbold.leaflet.pub/3mph4hzvbdc2v",
-      "score": 1.7,
-      "traffic": "5 points",
+      "url": "https://www.patrick-breyer.de/en/double-threat-to-private-communications-undemocratic-chat-control-backroom-deals-and-imminent-concessions-spark-relaunch-of-fightchatcontrol-eu/",
+      "score": 30.7,
+      "traffic": "92 points",
       "category": "tech",
       "metadata": {
-        "id": "7fjqgc",
+        "id": "tw0v1d",
         "comments": 0,
-        "submitter": "hongminhee",
+        "submitter": "asymmetric",
         "tags": [
+          "privacy"
+        ]
+      }
+    },
+    {
+      "keyword": "Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307",
+      "source": "lobsters",
+      "url": "https://nebusec.ai/research/v8-cve-2026-6307-writeup/",
+      "score": 3.3,
+      "traffic": "10 points",
+      "category": "tech",
+      "metadata": {
+        "id": "uaoe9y",
+        "comments": 0,
+        "submitter": "devgianlu",
+        "tags": [
+          "security",
           "web"
         ]
       }
@@ -1454,27 +1485,10 @@
       "category": "tech",
       "metadata": {
         "id": "vgqcgi",
-        "comments": 44,
+        "comments": 45,
         "submitter": "liberty",
         "tags": [
           "a11y"
-        ]
-      }
-    },
-    {
-      "keyword": "Longinus: 2 Boundaries in One Bug, Piercing Chrome’s Renderer and V8 Sandbox with a Single Vulnerability, CVE-2026-6307",
-      "source": "lobsters",
-      "url": "https://nebusec.ai/research/v8-cve-2026-6307-writeup/",
-      "score": 3.0,
-      "traffic": "9 points",
-      "category": "tech",
-      "metadata": {
-        "id": "uaoe9y",
-        "comments": 0,
-        "submitter": "devgianlu",
-        "tags": [
-          "security",
-          "web"
         ]
       }
     },
@@ -1487,27 +1501,11 @@
       "category": "tech",
       "metadata": {
         "id": "qzrdzu",
-        "comments": 6,
+        "comments": 8,
         "submitter": "caius",
         "tags": [
           "ask",
           "programming"
-        ]
-      }
-    },
-    {
-      "keyword": "Optimizing LLVM's bump allocator",
-      "source": "lobsters",
-      "url": "https://maskray.me/blog/2026-06-28-optimizing-llvm-bump-allocator",
-      "score": 6.3,
-      "traffic": "19 points",
-      "category": "tech",
-      "metadata": {
-        "id": "ltc5ca",
-        "comments": 1,
-        "submitter": "raymii",
-        "tags": [
-          "compilers"
         ]
       }
     },
@@ -1520,7 +1518,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 1,
-        "pull_count": 41275,
+        "pull_count": 41288,
         "description": "Azul Zulu is a fully tested, compatibility verified, and trusted binary distribution of OpenJDK."
       }
     },
@@ -1533,7 +1531,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 58,
-        "pull_count": 90004,
+        "pull_count": 90006,
         "description": "A light-weighted API Firewall to protect your API endpoints with API Schema validation."
       }
     },
@@ -1555,11 +1553,11 @@
       "source": "dockerhub",
       "url": "https://hub.docker.com/_/krakend",
       "score": 0.0,
-      "traffic": "368K pulls",
+      "traffic": "369K pulls",
       "category": "devops",
       "metadata": {
         "star_count": 7,
-        "pull_count": 368499,
+        "pull_count": 368595,
         "description": "KrakenD is a stateless, high-performance, enterprise-ready, open source API gateway written in Go."
       }
     },
@@ -1585,7 +1583,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 16,
-        "pull_count": 508837,
+        "pull_count": 508868,
         "description": "SATOSA translates between auth protocols such as SAML2, OpenID Connect, and OAuth2."
       }
     },
@@ -1598,7 +1596,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 28,
-        "pull_count": 524856,
+        "pull_count": 524860,
         "description": "Hitch is a libev-based high performance SSL/TLS proxy by Varnish Software."
       }
     },
@@ -1611,7 +1609,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 58,
-        "pull_count": 616016,
+        "pull_count": 616018,
         "description": "DEPRECATED; Official containers for Scientific Linux(SL)"
       }
     },
@@ -1637,7 +1635,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 47,
-        "pull_count": 723346,
+        "pull_count": 723349,
         "description": "DEPRECATED; Jobber is an alternative to cron, with sophisticated status-reporting and error-handling"
       }
     },
@@ -1663,7 +1661,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 71,
-        "pull_count": 833524,
+        "pull_count": 833529,
         "description": "The official build of ALT Linux."
       }
     },
@@ -1689,7 +1687,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 40,
-        "pull_count": 892803,
+        "pull_count": 892809,
         "description": "DEPRECATED; lacking active maintainer"
       }
     },
@@ -1702,7 +1700,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 13,
-        "pull_count": 1093368,
+        "pull_count": 1093713,
         "description": "DEPRECATED; Liquibase is DevOps for your database."
       }
     },
@@ -1902,202 +1900,6 @@
       }
     },
     {
-      "keyword": "pydantic",
-      "source": "pypi",
-      "url": "https://pypi.org/project/pydantic/",
-      "score": 100,
-      "traffic": "25,124,957/day (237,126,809/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 25124957,
-        "last_week": 237126809,
-        "last_month": 986879410,
-        "daily_growth": -25.8
-      }
-    },
-    {
-      "keyword": "httpx",
-      "source": "pypi",
-      "url": "https://pypi.org/project/httpx/",
-      "score": 100,
-      "traffic": "17,166,212/day (167,906,003/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 17166212,
-        "last_week": 167906003,
-        "last_month": 694692799,
-        "daily_growth": -28.4
-      }
-    },
-    {
-      "keyword": "uvicorn",
-      "source": "pypi",
-      "url": "https://pypi.org/project/uvicorn/",
-      "score": 100,
-      "traffic": "13,337,082/day (118,141,194/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 13337082,
-        "last_week": 118141194,
-        "last_month": 486918416,
-        "daily_growth": -21.0
-      }
-    },
-    {
-      "keyword": "fastapi",
-      "source": "pypi",
-      "url": "https://pypi.org/project/fastapi/",
-      "score": 100,
-      "traffic": "12,754,700/day (113,824,385/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 12754700,
-        "last_week": 113824385,
-        "last_month": 469893889,
-        "daily_growth": -21.6
-      }
-    },
-    {
-      "keyword": "langchain",
-      "source": "pypi",
-      "url": "https://pypi.org/project/langchain/",
-      "score": 100,
-      "traffic": "9,732,024/day (74,737,233/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 9732024,
-        "last_week": 74737233,
-        "last_month": 315126592,
-        "daily_growth": -8.8
-      }
-    },
-    {
-      "keyword": "openai",
-      "source": "pypi",
-      "url": "https://pypi.org/project/openai/",
-      "score": 100,
-      "traffic": "9,129,604/day (86,504,775/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 9129604,
-        "last_week": 86504775,
-        "last_month": 340966585,
-        "daily_growth": -26.1
-      }
-    },
-    {
-      "keyword": "mcp",
-      "source": "pypi",
-      "url": "https://pypi.org/project/mcp/",
-      "score": 100,
-      "traffic": "8,951,566/day (69,526,087/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 8951566,
-        "last_week": 69526087,
-        "last_month": 261545060,
-        "daily_growth": -9.9
-      }
-    },
-    {
-      "keyword": "ruff",
-      "source": "pypi",
-      "url": "https://pypi.org/project/ruff/",
-      "score": 100,
-      "traffic": "5,601,623/day (63,180,502/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 5601623,
-        "last_week": 63180502,
-        "last_month": 247257564,
-        "daily_growth": -37.9
-      }
-    },
-    {
-      "keyword": "transformers",
-      "source": "pypi",
-      "url": "https://pypi.org/project/transformers/",
-      "score": 100,
-      "traffic": "4,733,711/day (39,440,047/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 4733711,
-        "last_week": 39440047,
-        "last_month": 156308608,
-        "daily_growth": -16.0
-      }
-    },
-    {
-      "keyword": "anthropic",
-      "source": "pypi",
-      "url": "https://pypi.org/project/anthropic/",
-      "score": 100,
-      "traffic": "3,721,170/day (37,761,819/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 3721170,
-        "last_week": 37761819,
-        "last_month": 145282144,
-        "daily_growth": -31.0
-      }
-    },
-    {
-      "keyword": "uv",
-      "source": "pypi",
-      "url": "https://pypi.org/project/uv/",
-      "score": 100,
-      "traffic": "3,524,031/day (37,204,957/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 3524031,
-        "last_week": 37204957,
-        "last_month": 157448976,
-        "daily_growth": -33.7
-      }
-    },
-    {
-      "keyword": "polars",
-      "source": "pypi",
-      "url": "https://pypi.org/project/polars/",
-      "score": 100,
-      "traffic": "1,175,316/day (13,538,646/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 1175316,
-        "last_week": 13538646,
-        "last_month": 56419660,
-        "daily_growth": -39.2
-      }
-    },
-    {
-      "keyword": "crewai",
-      "source": "pypi",
-      "url": "https://pypi.org/project/crewai/",
-      "score": 70.4,
-      "traffic": "351,997/day (2,860,002/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 351997,
-        "last_week": 2860002,
-        "last_month": 11644910,
-        "daily_growth": -13.8
-      }
-    },
-    {
-      "keyword": "autogen",
-      "source": "pypi",
-      "url": "https://pypi.org/project/autogen/",
-      "score": 1.0,
-      "traffic": "5,161/day (43,134/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 5161,
-        "last_week": 43134,
-        "last_month": 183751,
-        "daily_growth": -16.2
-      }
-    },
-    {
       "keyword": "United States Water Reserve",
       "source": "coingecko",
       "url": "https://www.coingecko.com/en/coins/united-states-water-reserve",
@@ -2111,42 +1913,16 @@
       }
     },
     {
-      "keyword": "Synapse",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/synapse-2",
-      "score": 10,
-      "traffic": "Rank #250",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "SYN",
-        "market_cap_rank": 250,
-        "thumb": "https://coin-images.coingecko.com/coins/images/18024/standard/synapse_social_icon.png?1696517540"
-      }
-    },
-    {
       "keyword": "The Black Bull",
       "source": "coingecko",
       "url": "https://www.coingecko.com/en/coins/the-black-bull",
       "score": 10,
-      "traffic": "Rank #464",
+      "traffic": "Rank #444",
       "category": "crypto",
       "metadata": {
         "symbol": "ANSEM",
-        "market_cap_rank": 464,
+        "market_cap_rank": 444,
         "thumb": "https://coin-images.coingecko.com/coins/images/102174035/standard/IMG_9497.jpeg?1782005339"
-      }
-    },
-    {
-      "keyword": "TAC",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/tac",
-      "score": 10,
-      "traffic": "Rank #141",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "TAC",
-        "market_cap_rank": 141,
-        "thumb": "https://coin-images.coingecko.com/coins/images/67357/standard/tac.jpg?1752491437"
       }
     },
     {
@@ -2163,29 +1939,16 @@
       }
     },
     {
-      "keyword": "Solana",
+      "keyword": "Synapse",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/solana",
-      "score": 86,
-      "traffic": "Rank #7",
+      "url": "https://www.coingecko.com/en/coins/synapse-2",
+      "score": 10,
+      "traffic": "Rank #237",
       "category": "crypto",
       "metadata": {
-        "symbol": "SOL",
-        "market_cap_rank": 7,
-        "thumb": "https://coin-images.coingecko.com/coins/images/4128/standard/solana.png?1718769756"
-      }
-    },
-    {
-      "keyword": "Hyperliquid",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/hyperliquid",
-      "score": 80,
-      "traffic": "Rank #10",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "HYPE",
-        "market_cap_rank": 10,
-        "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
+        "symbol": "SYN",
+        "market_cap_rank": 237,
+        "thumb": "https://coin-images.coingecko.com/coins/images/18024/standard/synapse_social_icon.png?1696517540"
       }
     },
     {
@@ -2202,81 +1965,16 @@
       }
     },
     {
-      "keyword": "POL (ex-MATIC)",
+      "keyword": "TAC",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/polygon-ecosystem-token",
+      "url": "https://www.coingecko.com/en/coins/tac",
       "score": 10,
-      "traffic": "Rank #80",
+      "traffic": "Rank #141",
       "category": "crypto",
       "metadata": {
-        "symbol": "POL",
-        "market_cap_rank": 80,
-        "thumb": "https://coin-images.coingecko.com/coins/images/32440/standard/pol.png?1759114181"
-      }
-    },
-    {
-      "keyword": "Gram (prev. Toncoin)",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/the-open-network",
-      "score": 48,
-      "traffic": "Rank #26",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "GRAM",
-        "market_cap_rank": 26,
-        "thumb": "https://coin-images.coingecko.com/coins/images/17980/standard/Gram_Circular_Badge.png?1781524778"
-      }
-    },
-    {
-      "keyword": "Solstice",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/solstice",
-      "score": 10,
-      "traffic": "Rank #210",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "SLX",
-        "market_cap_rank": 210,
-        "thumb": "https://coin-images.coingecko.com/coins/images/71128/standard/slx.png?1779455873"
-      }
-    },
-    {
-      "keyword": "Jupiter",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/jupiter-exchange-solana",
-      "score": 10,
-      "traffic": "Rank #85",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "JUP",
-        "market_cap_rank": 85,
-        "thumb": "https://coin-images.coingecko.com/coins/images/34188/standard/jup.png?1704266489"
-      }
-    },
-    {
-      "keyword": "Pump.fun",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/pump-fun",
-      "score": 10,
-      "traffic": "Rank #95",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "PUMP",
-        "market_cap_rank": 95,
-        "thumb": "https://coin-images.coingecko.com/coins/images/67164/standard/pump.jpg?1751949376"
-      }
-    },
-    {
-      "keyword": "Monad",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/monad",
-      "score": 10,
-      "traffic": "Rank #152",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "MON",
-        "market_cap_rank": 152,
-        "thumb": "https://coin-images.coingecko.com/coins/images/38927/standard/mon.png?1766029057"
+        "symbol": "TAC",
+        "market_cap_rank": 141,
+        "thumb": "https://coin-images.coingecko.com/coins/images/67357/standard/tac.jpg?1752491437"
       }
     },
     {
@@ -2290,6 +1988,110 @@
         "symbol": "ETH",
         "market_cap_rank": 2,
         "thumb": "https://coin-images.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
+      }
+    },
+    {
+      "keyword": "Solstice",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/solstice",
+      "score": 10,
+      "traffic": "Rank #209",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "SLX",
+        "market_cap_rank": 209,
+        "thumb": "https://coin-images.coingecko.com/coins/images/71128/standard/slx.png?1779455873"
+      }
+    },
+    {
+      "keyword": "Hyperliquid",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "score": 80,
+      "traffic": "Rank #10",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "HYPE",
+        "market_cap_rank": 10,
+        "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
+      }
+    },
+    {
+      "keyword": "BNB",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/binancecoin",
+      "score": 92,
+      "traffic": "Rank #4",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "BNB",
+        "market_cap_rank": 4,
+        "thumb": "https://coin-images.coingecko.com/coins/images/825/standard/bnb-icon2_2x.png?1696501970"
+      }
+    },
+    {
+      "keyword": "Ethena",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/ethena",
+      "score": 10,
+      "traffic": "Rank #83",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "ENA",
+        "market_cap_rank": 83,
+        "thumb": "https://coin-images.coingecko.com/coins/images/36530/standard/ethena.png?1711701436"
+      }
+    },
+    {
+      "keyword": "Solana",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/solana",
+      "score": 86,
+      "traffic": "Rank #7",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "SOL",
+        "market_cap_rank": 7,
+        "thumb": "https://coin-images.coingecko.com/coins/images/4128/standard/solana.png?1718769756"
+      }
+    },
+    {
+      "keyword": "Zcash",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/zcash",
+      "score": 70,
+      "traffic": "Rank #15",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "ZEC",
+        "market_cap_rank": 15,
+        "thumb": "https://coin-images.coingecko.com/coins/images/486/standard/circle-zcash-color.png?1696501740"
+      }
+    },
+    {
+      "keyword": "Cap",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/cap-4",
+      "score": 10,
+      "traffic": "Rank #475",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "CAP",
+        "market_cap_rank": 475,
+        "thumb": "https://coin-images.coingecko.com/coins/images/102174107/standard/cap.jpg?1782391237"
+      }
+    },
+    {
+      "keyword": "XRP",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/ripple",
+      "score": 88,
+      "traffic": "Rank #6",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "XRP",
+        "market_cap_rank": 6,
+        "thumb": "https://coin-images.coingecko.com/coins/images/44/standard/xrp-symbol-white-128.png?1696501442"
       }
     }
   ],
@@ -2322,27 +2124,18 @@
       "metadata": {}
     },
     {
-      "keyword": "日本队豪言击败巴西冲击世界杯冠军，是自信还是傲慢？",
-      "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33475502",
-      "score": 0,
-      "traffic": "",
-      "category": "news",
-      "metadata": {}
-    },
-    {
-      "keyword": "观察｜日菲“专属经济区划界谈判”无效，中国维权合理合法",
-      "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33471842",
-      "score": 0,
-      "traffic": "",
-      "category": "news",
-      "metadata": {}
-    },
-    {
       "keyword": "沈阳警方：男子恶意曲解袁隆平科研成果，被刑拘",
       "source": "wechat",
       "url": "https://www.thepaper.cn/newsDetail_forward_33479075",
+      "score": 0,
+      "traffic": "",
+      "category": "news",
+      "metadata": {}
+    },
+    {
+      "keyword": "日本队豪言击败巴西冲击世界杯冠军，是自信还是傲慢？",
+      "source": "wechat",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33475502",
       "score": 0,
       "traffic": "",
       "category": "news",
@@ -2376,15 +2169,6 @@
       "metadata": {}
     },
     {
-      "keyword": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
-      "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33472508",
-      "score": 0,
-      "traffic": "",
-      "category": "news",
-      "metadata": {}
-    },
-    {
       "keyword": "“最好的空调是一棵树”？面对致命热浪，欧洲人陷入空调内耗",
       "source": "wechat",
       "url": "https://www.thepaper.cn/newsDetail_forward_33476437",
@@ -2397,6 +2181,15 @@
       "keyword": "宜宾5.5级地震，烧烤店老板：顾客们避险后折返，无一逃单",
       "source": "wechat",
       "url": "https://www.thepaper.cn/newsDetail_forward_33474616",
+      "score": 0,
+      "traffic": "",
+      "category": "news",
+      "metadata": {}
+    },
+    {
+      "keyword": "莆田仙游通报：9人在刺刀峡谷户外探险5人溺亡，该区域尚未开放",
+      "source": "wechat",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33476844",
       "score": 0,
       "traffic": "",
       "category": "news",
@@ -2421,27 +2214,9 @@
       "metadata": {}
     },
     {
-      "keyword": "媒体：小马被无人机追炸肺，“空中刺客”如何管？",
-      "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33473687",
-      "score": 0,
-      "traffic": "",
-      "category": "news",
-      "metadata": {}
-    },
-    {
       "keyword": "普京：俄罗斯正面临命运攸关时刻",
       "source": "wechat",
       "url": "https://www.thepaper.cn/newsDetail_forward_33473813",
-      "score": 0,
-      "traffic": "",
-      "category": "news",
-      "metadata": {}
-    },
-    {
-      "keyword": "四川高县5.5级地震致13人受伤，均为轻微伤已送医诊疗",
-      "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33473725",
       "score": 0,
       "traffic": "",
       "category": "news",
@@ -2457,9 +2232,36 @@
       "metadata": {}
     },
     {
+      "keyword": "大方之谈丨对话张军：什么都想回本的人生，可能最不划算",
+      "source": "wechat",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33472824",
+      "score": 0,
+      "traffic": "",
+      "category": "news",
+      "metadata": {}
+    },
+    {
       "keyword": "商务部：将20家日本实体列入出口管制管控名单",
       "source": "wechat",
       "url": "https://www.thepaper.cn/newsDetail_forward_33474226",
+      "score": 0,
+      "traffic": "",
+      "category": "news",
+      "metadata": {}
+    },
+    {
+      "keyword": "马上看丨暗访青岛养老院：人不在岗，锁挂在门，火来了怎么办？",
+      "source": "wechat",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33427683",
+      "score": 0,
+      "traffic": "",
+      "category": "news",
+      "metadata": {}
+    },
+    {
+      "keyword": "三星、海力士及美光被指操纵价格面临集体诉讼：借转型HBM减少传统内存供应",
+      "source": "wechat",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33480051",
       "score": 0,
       "traffic": "",
       "category": "news",
