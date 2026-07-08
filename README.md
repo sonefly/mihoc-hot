@@ -1,17 +1,13 @@
-# 蜜学热榜 - 全球 AI 科技热点聚合站
+# 全球热榜 - 全球 AI 科技热点聚合站
 
 > 一个页面看完 12 个平台的实时热点。零成本，永久在线。
-
-**在线体验：[mixuecoding.github.io/mihoc-hot](https://mixuecoding.github.io/mihoc-hot/)**
 
 ---
 
 ## 扫码关注公众号
 
 <div align="center">
-  <img src="mixuecodingQR.jpg" width="160" alt="蜜学编程公众号">
-  <p>👆 微信扫码关注「蜜学编程」</p>
-  <p>氛围编程实战派。像喝蜜雪一样写代码。</p>
+  <p>sonefly@gmail.com。像喝蜜雪一样写代码。</p>
 </div>
 
 ---
