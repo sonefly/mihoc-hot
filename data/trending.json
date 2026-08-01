@@ -1,36 +1,64 @@
 {
-  "updated": "2026-08-02T03:42:28.184187+08:00",
+  "updated": "2026-08-02T05:14:08.527003+08:00",
   "source_count": {
     "global": 11,
     "wechat": 1
   },
-  "total_items": 179,
+  "total_items": 178,
   "global": [
     {
-      "keyword": "NetBSD 11.0 Released",
+      "keyword": "The Silicon Valley Founder Meat Grinder",
       "source": "hackernews",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "score": 19.0,
-      "traffic": "95 points",
+      "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+      "score": 9.4,
+      "traffic": "47 points",
       "category": "tech",
       "metadata": {
-        "id": 49136736,
-        "by": "jaypatelani",
-        "comments": 19,
-        "hn_url": "https://news.ycombinator.com/item?id=49136736"
+        "id": 49138045,
+        "by": "Kaizeras",
+        "comments": 9,
+        "hn_url": "https://news.ycombinator.com/item?id=49138045"
+      }
+    },
+    {
+      "keyword": "How Google helped destroy adoption of RSS feeds (2023)",
+      "source": "hackernews",
+      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+      "score": 22.0,
+      "traffic": "110 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49136821,
+        "by": "pudgywalsh",
+        "comments": 28,
+        "hn_url": "https://news.ycombinator.com/item?id=49136821"
+      }
+    },
+    {
+      "keyword": "Diátaxis",
+      "source": "hackernews",
+      "url": "https://diataxis.fr/",
+      "score": 5.2,
+      "traffic": "26 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49138188,
+        "by": "ryanseys",
+        "comments": 6,
+        "hn_url": "https://news.ycombinator.com/item?id=49138188"
       }
     },
     {
       "keyword": "Postmortem for Kernel Soundness Bug #14576",
       "source": "hackernews",
       "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "score": 8.4,
-      "traffic": "42 points",
+      "score": 16.0,
+      "traffic": "80 points",
       "category": "tech",
       "metadata": {
         "id": 49137060,
         "by": "juhopitk",
-        "comments": 15,
+        "comments": 29,
         "hn_url": "https://news.ycombinator.com/item?id=49137060"
       }
     },
@@ -38,41 +66,111 @@
       "keyword": "The Art of 64-bit Assembly",
       "source": "hackernews",
       "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "score": 24.8,
-      "traffic": "124 points",
+      "score": 29.0,
+      "traffic": "145 points",
       "category": "tech",
       "metadata": {
         "id": 49134599,
         "by": "0x54MUR41",
-        "comments": 65,
+        "comments": 70,
         "hn_url": "https://news.ycombinator.com/item?id=49134599"
+      }
+    },
+    {
+      "keyword": "But can your calculator run Linux?",
+      "source": "hackernews",
+      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+      "score": 4.6,
+      "traffic": "23 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49137713,
+        "by": "jandeboevrie",
+        "comments": 0,
+        "hn_url": "https://news.ycombinator.com/item?id=49137713"
+      }
+    },
+    {
+      "keyword": "CISA Alert: Water Sector PLC Targeting",
+      "source": "hackernews",
+      "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
+      "score": 4.4,
+      "traffic": "22 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49137228,
+        "by": "speckx",
+        "comments": 7,
+        "hn_url": "https://news.ycombinator.com/item?id=49137228"
+      }
+    },
+    {
+      "keyword": "NetBSD 11.0",
+      "source": "hackernews",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "score": 28.8,
+      "traffic": "144 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49136736,
+        "by": "jaypatelani",
+        "comments": 54,
+        "hn_url": "https://news.ycombinator.com/item?id=49136736"
+      }
+    },
+    {
+      "keyword": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "source": "hackernews",
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "score": 45.0,
+      "traffic": "225 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49133889,
+        "by": "throwaway2037",
+        "comments": 152,
+        "hn_url": "https://news.ycombinator.com/item?id=49133889"
       }
     },
     {
       "keyword": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
       "source": "hackernews",
       "url": "https://kaisel.dev/",
-      "score": 6.0,
-      "traffic": "30 points",
+      "score": 8.2,
+      "traffic": "41 points",
       "category": "tech",
       "metadata": {
         "id": 49135985,
         "by": "TheWiggles",
-        "comments": 4,
+        "comments": 5,
         "hn_url": "https://news.ycombinator.com/item?id=49135985"
+      }
+    },
+    {
+      "keyword": "Just because a game is on disc doesn't mean it will work in the future",
+      "source": "hackernews",
+      "url": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
+      "score": 5.8,
+      "traffic": "29 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49120230,
+        "by": "rbanffy",
+        "comments": 12,
+        "hn_url": "https://news.ycombinator.com/item?id=49120230"
       }
     },
     {
       "keyword": "Explorative modeling: Train on the best of K guesses",
       "source": "hackernews",
       "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "score": 10.2,
-      "traffic": "51 points",
+      "score": 11.8,
+      "traffic": "59 points",
       "category": "tech",
       "metadata": {
         "id": 49135245,
         "by": "DSemba",
-        "comments": 19,
+        "comments": 21,
         "hn_url": "https://news.ycombinator.com/item?id=49135245"
       }
     },
@@ -80,140 +178,42 @@
       "keyword": "Pgtestdb's template cloning approach to testing is fast",
       "source": "hackernews",
       "url": "https://brandur.org/fragments/pgtestdb",
-      "score": 8.4,
-      "traffic": "42 points",
+      "score": 10.2,
+      "traffic": "51 points",
       "category": "tech",
       "metadata": {
         "id": 49135546,
         "by": "brandur",
-        "comments": 24,
+        "comments": 32,
         "hn_url": "https://news.ycombinator.com/item?id=49135546"
       }
     },
     {
-      "keyword": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "keyword": "Signal Structure of the Starlink Ku-Band Downlink (2023) [pdf]",
       "source": "hackernews",
-      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "score": 42.0,
-      "traffic": "210 points",
+      "url": "https://radionavlab.ae.utexas.edu/wp-content/uploads/starlink_structure.pdf",
+      "score": 1.8,
+      "traffic": "9 points",
       "category": "tech",
       "metadata": {
-        "id": 49133889,
-        "by": "throwaway2037",
-        "comments": 145,
-        "hn_url": "https://news.ycombinator.com/item?id=49133889"
+        "id": 49137320,
+        "by": "peter_d_sherman",
+        "comments": 1,
+        "hn_url": "https://news.ycombinator.com/item?id=49137320"
       }
     },
     {
-      "keyword": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
+      "keyword": "Google has abandoned Google News?",
       "source": "hackernews",
-      "url": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
-      "score": 4.2,
-      "traffic": "21 points",
+      "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+      "score": 38.6,
+      "traffic": "193 points",
       "category": "tech",
       "metadata": {
-        "id": 49135426,
-        "by": "stasomatic",
-        "comments": 10,
-        "hn_url": "https://news.ycombinator.com/item?id=49135426"
-      }
-    },
-    {
-      "keyword": "Tell HN: I hate your fuzzy search",
-      "source": "hackernews",
-      "url": "https://news.ycombinator.com/item?id=49136990",
-      "score": 11.8,
-      "traffic": "59 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49136990,
-        "by": "tehwebguy",
-        "comments": 30,
-        "hn_url": "https://news.ycombinator.com/item?id=49136990"
-      }
-    },
-    {
-      "keyword": "Cursor removed cost information from the usage page and CSV export",
-      "source": "hackernews",
-      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "score": 43.6,
-      "traffic": "218 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49135257,
-        "by": "EugeneOZ",
-        "comments": 97,
-        "hn_url": "https://news.ycombinator.com/item?id=49135257"
-      }
-    },
-    {
-      "keyword": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
-      "source": "hackernews",
-      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-      "score": 40.4,
-      "traffic": "202 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49134694,
-        "by": "iamnothere",
-        "comments": 116,
-        "hn_url": "https://news.ycombinator.com/item?id=49134694"
-      }
-    },
-    {
-      "keyword": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
-      "source": "hackernews",
-      "url": "https://franken.domains/",
-      "score": 3.6,
-      "traffic": "18 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49135975,
-        "by": "klausbreyer",
-        "comments": 26,
-        "hn_url": "https://news.ycombinator.com/item?id=49135975"
-      }
-    },
-    {
-      "keyword": "Register deprivation: spills and runtime under forced register scarcity",
-      "source": "hackernews",
-      "url": "https://rjp.io/blog/2026-07-19-register-deprivation",
-      "score": 3.4,
-      "traffic": "17 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49109019,
-        "by": "surprisetalk",
-        "comments": 3,
-        "hn_url": "https://news.ycombinator.com/item?id=49109019"
-      }
-    },
-    {
-      "keyword": "Oil companies report sky-high profits thanks to wartime crude prices",
-      "source": "hackernews",
-      "url": "https://www.npr.org/2026/07/31/nx-s1-5910660/big-oil-earnings-q2-2026",
-      "score": 6.0,
-      "traffic": "30 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49137024,
-        "by": "speckx",
-        "comments": 33,
-        "hn_url": "https://news.ycombinator.com/item?id=49137024"
-      }
-    },
-    {
-      "keyword": "A directory of people who love RSS",
-      "source": "hackernews",
-      "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-      "score": 24.4,
-      "traffic": "122 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49136063,
-        "by": "speckx",
-        "comments": 65,
-        "hn_url": "https://news.ycombinator.com/item?id=49136063"
+        "id": 49137681,
+        "by": "mikelgan",
+        "comments": 127,
+        "hn_url": "https://news.ycombinator.com/item?id=49137681"
       }
     },
     {
@@ -427,27 +427,30 @@
       }
     },
     {
-      "keyword": "Android Background Alarm Issue on Infinix Zero 40 (Android 15 / XOS)",
+      "keyword": "How can I fix config::get(): \"Config file config.yml not found\" when running a Shiny app from GitHub?",
       "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79989753/android-background-alarm-issue-on-infinix-zero-40-android-15-xos",
-      "score": 0.0,
-      "traffic": "13 views",
+      "url": "https://stackoverflow.com/questions/79989763/how-can-i-fix-configget-config-file-config-yml-not-found-when-running-a-s",
+      "score": -0.2,
+      "traffic": "27 views",
       "category": "tech",
       "metadata": {
         "tags": [
-          "android"
+          "r",
+          "github",
+          "shiny",
+          "config"
         ],
         "answer_count": 0,
         "is_answered": false,
-        "owner": "Muhammad Yar"
+        "owner": "SJCompBio"
       }
     },
     {
       "keyword": "Tile window placement",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79989748/tile-window-placement",
-      "score": -0.8,
-      "traffic": "26 views",
+      "score": -1.2,
+      "traffic": "42 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -466,7 +469,7 @@
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79989746/can-this-palindrome-with-one-deletion-algorithm-be-improved-beyond-my-current-ap",
       "score": 0.0,
-      "traffic": "23 views",
+      "traffic": "33 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -474,17 +477,102 @@
           "python",
           "palindrome"
         ],
-        "answer_count": 0,
+        "answer_count": 1,
         "is_answered": false,
         "owner": "jayesh patil"
       }
     },
     {
-      "keyword": "Questioning the design of SELECT SCOPE_IDENTITY() in SQL Server",
+      "keyword": "Append items to an array in an object in Swift",
       "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79989737/questioning-the-design-of-select-scope-identity-in-sql-server",
+      "url": "https://stackoverflow.com/questions/79989754/append-items-to-an-array-in-an-object-in-swift",
+      "score": 0.2,
+      "traffic": "15 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "ios",
+          "swift"
+        ],
+        "answer_count": 2,
+        "is_answered": true,
+        "owner": "Shaun Ross"
+      }
+    },
+    {
+      "keyword": "Android Background Alarm Issue on Infinix Zero 40 (Android 15 / XOS)",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79989753/android-background-alarm-issue-on-infinix-zero-40-android-15-xos",
       "score": 0.0,
-      "traffic": "23 views",
+      "traffic": "18 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "android"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "Muhammad Yar"
+      }
+    },
+    {
+      "keyword": "Anchoring a button when the button is inside a scroll content",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79989756/anchoring-a-button-when-the-button-is-inside-a-scroll-content",
+      "score": -0.2,
+      "traffic": "17 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "css"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "David"
+      }
+    },
+    {
+      "keyword": "How to ping back to client with Python socket.io",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79989759/how-to-ping-back-to-client-with-python-socket-io",
+      "score": -0.2,
+      "traffic": "12 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "python",
+          "flask",
+          "flask-socketio"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "Noah Bergh"
+      }
+    },
+    {
+      "keyword": "null value return for selected columns of a DataFrame",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79989760/null-value-return-for-selected-columns-of-a-dataframe",
+      "score": 0.0,
+      "traffic": "11 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "python",
+          "pandas",
+          "dataframe"
+        ],
+        "answer_count": 1,
+        "is_answered": false,
+        "owner": "user1"
+      }
+    },
+    {
+      "keyword": "Questioning the design of SELECT SCOPE_IDENTITY()",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79989737/questioning-the-design-of-select-scope-identity",
+      "score": -0.2,
+      "traffic": "33 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -497,11 +585,27 @@
       }
     },
     {
+      "keyword": "Why is this code not converting binary to decimal?",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79989681/why-is-this-code-not-converting-binary-to-decimal",
+      "score": -0.4,
+      "traffic": "116 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "c++"
+        ],
+        "answer_count": 3,
+        "is_answered": true,
+        "owner": "anand gupta"
+      }
+    },
+    {
       "keyword": "How to add non-standard (linker) flag (e.g. containing a whitespace) to SCons?",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79989747/how-to-add-non-standard-linker-flag-e-g-containing-a-whitespace-to-scons",
       "score": 0.0,
-      "traffic": "19 views",
+      "traffic": "23 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -517,11 +621,31 @@
       }
     },
     {
+      "keyword": "Understanding the difference between using 'dotnet run' and the Debugger in VS Code",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79989716/understanding-the-difference-between-using-dotnet-run-and-the-debugger-in-vs-c",
+      "score": 0.0,
+      "traffic": "45 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "advice",
+          "c#",
+          "linux",
+          "visual-studio-code",
+          "asp.net-core-mvc"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "Emvidasch"
+      }
+    },
+    {
       "keyword": "Building Offline-First Android App with FM Radio RDS Detection",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79989734/building-offline-first-android-app-with-fm-radio-rds-detection",
       "score": -0.6,
-      "traffic": "20 views",
+      "traffic": "21 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -541,7 +665,7 @@
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79989729/items-in-flexbox-adding-up-to-more-than-100vw-on-high-resolution-screens",
       "score": 0.0,
-      "traffic": "18 views",
+      "traffic": "19 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -554,82 +678,11 @@
       }
     },
     {
-      "keyword": "Understanding the difference between using 'dotnet run' and the Debugger in VS Code",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79989716/understanding-the-difference-between-using-dotnet-run-and-the-debugger-in-vs-c",
-      "score": 0.0,
-      "traffic": "42 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "advice",
-          "c#",
-          "linux",
-          "visual-studio-code",
-          "asp.net-core-mvc"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "Emvidasch"
-      }
-    },
-    {
-      "keyword": "Why this code is not converting binary to decimal",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79989681/why-this-code-is-not-converting-binary-to-decimal",
-      "score": -0.4,
-      "traffic": "112 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "c++"
-        ],
-        "answer_count": 3,
-        "is_answered": true,
-        "owner": "anand gupta"
-      }
-    },
-    {
-      "keyword": "Build Errors \"Exit 128\" and \"No url found for submodule path X in gitmodules\"",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79989732/build-errors-exit-128-and-no-url-found-for-submodule-path-x-in-gitmodules",
-      "score": 0.0,
-      "traffic": "20 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "git-submodules",
-          "git-push"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "user24090662"
-      }
-    },
-    {
-      "keyword": "Code coverage threshold on a solution level in GitHub",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79989731/code-coverage-threshold-on-a-solution-level-in-github",
-      "score": 0.0,
-      "traffic": "19 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "asp.net",
-          "github-actions",
-          "code-coverage"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "James Andrew Smith"
-      }
-    },
-    {
       "keyword": "Javascript innerText not replacing existing text",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79989714/javascript-innertext-not-replacing-existing-text",
       "score": 0.0,
-      "traffic": "78 views",
+      "traffic": "86 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -642,60 +695,7 @@
       }
     },
     {
-      "keyword": "Unable to install Cisco Packet Tracer 9.0.1 on Kali Linux due to dependency errors",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79989725/unable-to-install-cisco-packet-tracer-9-0-1-on-kali-linux-due-to-dependency-erro",
-      "score": 0.0,
-      "traffic": "15 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "linux",
-          "dependencies",
-          "debian",
-          "kali-linux",
-          "package-management"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "ManiKandan D"
-      }
-    },
-    {
-      "keyword": "Best solutions after a Firebase project suspension",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79989719/best-solutions-after-a-firebase-project-suspension",
-      "score": -0.8,
-      "traffic": "37 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "firebase",
-          "google-cloud-platform"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "Dasun Dola"
-      }
-    },
-    {
-      "keyword": "Change a variable based on two conditions",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79989698/change-a-variable-based-on-two-conditions",
-      "score": -1.0,
-      "traffic": "60 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "r"
-        ],
-        "answer_count": 1,
-        "is_answered": false,
-        "owner": "Rabia Alrabea"
-      }
-    },
-    {
-      "keyword": "devin white",
+      "keyword": "westjet flight attendant union strike",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -707,7 +707,7 @@
       }
     },
     {
-      "keyword": "caeleb dressel",
+      "keyword": "mixco - suchitepequez",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -719,7 +719,7 @@
       }
     },
     {
-      "keyword": "roach vs zepeda",
+      "keyword": "wpbl",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -731,7 +731,7 @@
       }
     },
     {
-      "keyword": "brock lesnar",
+      "keyword": "jeremy sochan",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -743,7 +743,7 @@
       }
     },
     {
-      "keyword": "espn unlimited",
+      "keyword": "spokane fire",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -755,7 +755,7 @@
       }
     },
     {
-      "keyword": "furious 2026 series reviews",
+      "keyword": "jack osbourne",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -767,7 +767,7 @@
       }
     },
     {
-      "keyword": "nashville",
+      "keyword": "bourbon virus",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -779,7 +779,7 @@
       }
     },
     {
-      "keyword": "btc price",
+      "keyword": "kevin gausman",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -791,7 +791,7 @@
       }
     },
     {
-      "keyword": "everton vs colo-colo",
+      "keyword": "michael brennan golf",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -803,7 +803,7 @@
       }
     },
     {
-      "keyword": "apple iphone 18 pro max",
+      "keyword": "gary payton ii",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -815,32 +815,21 @@
       }
     },
     {
-      "keyword": "Hackers",
+      "keyword": "Vincent Pastore",
       "source": "bluesky",
-      "url": "https://bsky.app/search?q=Hackers",
+      "url": "https://bsky.app/search?q=Vincent Pastore",
       "score": 100,
       "traffic": "",
       "category": "social",
       "metadata": {
-        "link": "/profile/trending.bsky.app/feed/815655661"
-      }
-    },
-    {
-      "keyword": "WNBA",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=WNBA",
-      "score": 95,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/trending.bsky.app/feed/815740243"
+        "link": "/profile/trending.bsky.app/feed/815797367"
       }
     },
     {
       "keyword": "Spider-Man",
       "source": "bluesky",
       "url": "https://bsky.app/search?q=Spider-Man",
-      "score": 90,
+      "score": 95,
       "traffic": "",
       "category": "social",
       "metadata": {
@@ -848,10 +837,32 @@
       }
     },
     {
+      "keyword": "WNBA",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=WNBA",
+      "score": 90,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/trending.bsky.app/feed/815740243"
+      }
+    },
+    {
+      "keyword": "Hackers",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=Hackers",
+      "score": 85,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/trending.bsky.app/feed/815655661"
+      }
+    },
+    {
       "keyword": "Sydney Taylor",
       "source": "bluesky",
       "url": "https://bsky.app/search?q=Sydney Taylor",
-      "score": 85,
+      "score": 80,
       "traffic": "",
       "category": "social",
       "metadata": {
@@ -862,7 +873,7 @@
       "keyword": "Arsenal",
       "source": "bluesky",
       "url": "https://bsky.app/search?q=Arsenal",
-      "score": 80,
+      "score": 75,
       "traffic": "",
       "category": "social",
       "metadata": {
@@ -873,7 +884,7 @@
       "keyword": "Yaoi Day",
       "source": "bluesky",
       "url": "https://bsky.app/search?q=Yaoi Day",
-      "score": 75,
+      "score": 70,
       "traffic": "",
       "category": "social",
       "metadata": {
@@ -884,7 +895,7 @@
       "keyword": "Odaiba Day",
       "source": "bluesky",
       "url": "https://bsky.app/search?q=Odaiba Day",
-      "score": 70,
+      "score": 65,
       "traffic": "",
       "category": "social",
       "metadata": {
@@ -895,22 +906,11 @@
       "keyword": "Game Development",
       "source": "bluesky",
       "url": "https://bsky.app/search?q=Game Development",
-      "score": 65,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/trending.bsky.app/feed/815631109"
-      }
-    },
-    {
-      "keyword": "1978 Music",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=1978 Music",
       "score": 60,
       "traffic": "",
       "category": "social",
       "metadata": {
-        "link": "/profile/trending.bsky.app/feed/815538492"
+        "link": "/profile/trending.bsky.app/feed/815631109"
       }
     },
     {
@@ -929,7 +929,7 @@
       "source": "bluesky",
       "url": "at://did:plc:3guzzweuqraryl3rdkimjamk/app.bsky.feed.generator/for-you",
       "score": 100,
-      "traffic": "51900 likes",
+      "traffic": "51902 likes",
       "category": "feed",
       "metadata": {
         "type": "feed",
@@ -981,7 +981,7 @@
       "source": "bluesky",
       "url": "at://did:plc:jfhpnnst6flqway4eaeqzj2a/app.bsky.feed.generator/for-science",
       "score": 100,
-      "traffic": "29416 likes",
+      "traffic": "29415 likes",
       "category": "feed",
       "metadata": {
         "type": "feed",
@@ -998,13 +998,32 @@
       "category": "tech",
       "metadata": {
         "id": 4284396,
-        "comments": 1,
+        "comments": 2,
         "author": "pascal_cescato_692b7a8a20",
         "tags": [
           "cybersecurity",
           "devops",
           "infrastructure",
           "linux"
+        ]
+      }
+    },
+    {
+      "keyword": "ratatop: the network box, and why your ISP lies with units",
+      "source": "devto",
+      "url": "https://dev.to/lovestaco/ratatop-the-network-box-and-why-your-isp-lies-with-units-4lpo",
+      "score": 2.6,
+      "traffic": "13 reactions",
+      "category": "tech",
+      "metadata": {
+        "id": 4288668,
+        "comments": 0,
+        "author": "lovestaco",
+        "tags": [
+          "programming",
+          "productivity",
+          "cli",
+          "rust"
         ]
       }
     },
@@ -1017,7 +1036,7 @@
       "category": "tech",
       "metadata": {
         "id": 4286677,
-        "comments": 4,
+        "comments": 5,
         "author": "le_beltagy",
         "tags": [
           "go",
@@ -1085,25 +1104,6 @@
       }
     },
     {
-      "keyword": "ratatop: the network box, and why your ISP lies with units",
-      "source": "devto",
-      "url": "https://dev.to/lovestaco/ratatop-the-network-box-and-why-your-isp-lies-with-units-4lpo",
-      "score": 1.6,
-      "traffic": "8 reactions",
-      "category": "tech",
-      "metadata": {
-        "id": 4288668,
-        "comments": 0,
-        "author": "lovestaco",
-        "tags": [
-          "programming",
-          "productivity",
-          "cli",
-          "rust"
-        ]
-      }
-    },
-    {
       "keyword": "Why Agent Evaluation Is Harder Than Model Evaluation",
       "source": "devto",
       "url": "https://dev.to/debashish_ghosal/why-agent-evaluation-is-harder-than-model-evaluation-poe",
@@ -1142,25 +1142,6 @@
       }
     },
     {
-      "keyword": "Faster PRs, Weaker Instincts: The Judgment Problem in AI-Assisted Engineering",
-      "source": "devto",
-      "url": "https://dev.to/debashish_ghosal/faster-prs-weaker-instincts-the-judgment-problem-in-ai-assisted-engineering-4fd8",
-      "score": 1.2,
-      "traffic": "6 reactions",
-      "category": "tech",
-      "metadata": {
-        "id": 4284283,
-        "comments": 2,
-        "author": "debashish_ghosal",
-        "tags": [
-          "ai",
-          "leadership",
-          "llm",
-          "agile"
-        ]
-      }
-    },
-    {
       "keyword": "My Shell Scripts Speak C# Now",
       "source": "devto",
       "url": "https://dev.to/ssukhpinder/my-shell-scripts-speak-c-now-hka",
@@ -1176,6 +1157,25 @@
           "csharp",
           "programming",
           "webdev"
+        ]
+      }
+    },
+    {
+      "keyword": "Faster PRs, Weaker Instincts: The Judgment Problem in AI-Assisted Engineering",
+      "source": "devto",
+      "url": "https://dev.to/debashish_ghosal/faster-prs-weaker-instincts-the-judgment-problem-in-ai-assisted-engineering-4fd8",
+      "score": 1.2,
+      "traffic": "6 reactions",
+      "category": "tech",
+      "metadata": {
+        "id": 4284283,
+        "comments": 2,
+        "author": "debashish_ghosal",
+        "tags": [
+          "ai",
+          "leadership",
+          "llm",
+          "agile"
         ]
       }
     },
@@ -1237,6 +1237,25 @@
       }
     },
     {
+      "keyword": "Brownfield System Design Interviews: How to Answer Migration and Legacy Questions",
+      "source": "devto",
+      "url": "https://dev.to/atlantean_2491f7a3c49cea7/brownfield-system-design-interviews-how-to-answer-migration-and-legacy-questions-3k8c",
+      "score": 1.8,
+      "traffic": "9 reactions",
+      "category": "tech",
+      "metadata": {
+        "id": 4288012,
+        "comments": 3,
+        "author": "atlantean_2491f7a3c49cea7",
+        "tags": [
+          "systemdesigninterview",
+          "microservices",
+          "architecture",
+          "career"
+        ]
+      }
+    },
+    {
       "keyword": "Calendar API: Local Calendars, Cloud Sync, and Conflict Handling",
       "source": "devto",
       "url": "https://dev.to/codenameone/calendar-api-local-calendars-cloud-sync-and-conflict-handling-1a1p",
@@ -1256,37 +1275,53 @@
       }
     },
     {
-      "keyword": "Catbot: Custom Grammar Problem Fixed",
-      "source": "devto",
-      "url": "https://dev.to/annavi11arrea1/catbot-custom-grammar-problem-fixed-oc5",
-      "score": 0.2,
-      "traffic": "1 reactions",
+      "keyword": "NetBSD 11.0 released",
+      "source": "lobsters",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "score": 10.7,
+      "traffic": "32 points",
       "category": "tech",
       "metadata": {
-        "id": 4288467,
-        "comments": 0,
-        "author": "annavi11arrea1",
+        "id": "pvrnor",
+        "comments": 2,
+        "submitter": "jaypatelani",
         "tags": [
-          "devchallenge",
-          "bugsmash",
-          "catbot",
-          "ai"
+          "netbsd"
         ]
       }
     },
     {
-      "keyword": "NetBSD 11.0 released",
+      "keyword": "wiff",
       "source": "lobsters",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "score": 6.0,
-      "traffic": "18 points",
+      "url": "https://wezfurlong.org/wiff/",
+      "score": 8.7,
+      "traffic": "26 points",
       "category": "tech",
       "metadata": {
-        "id": "pvrnor",
-        "comments": 0,
-        "submitter": "jaypatelani",
+        "id": "tc82u0",
+        "comments": 6,
+        "submitter": "jparise",
         "tags": [
-          "netbsd"
+          "practices",
+          "vcs",
+          "vibecoding"
+        ]
+      }
+    },
+    {
+      "keyword": "An old-new take on argument parsing in Rust",
+      "source": "lobsters",
+      "url": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
+      "score": 2.7,
+      "traffic": "8 points",
+      "category": "tech",
+      "metadata": {
+        "id": "vrd28h",
+        "comments": 1,
+        "submitter": "jmmv",
+        "tags": [
+          "rust",
+          "unix"
         ]
       }
     },
@@ -1299,7 +1334,7 @@
       "category": "tech",
       "metadata": {
         "id": "72ni5s",
-        "comments": 11,
+        "comments": 13,
         "submitter": "eatonphil",
         "tags": [
           "browsers",
@@ -1308,29 +1343,11 @@
       }
     },
     {
-      "keyword": "wiff",
-      "source": "lobsters",
-      "url": "https://wezfurlong.org/wiff/",
-      "score": 7.7,
-      "traffic": "23 points",
-      "category": "tech",
-      "metadata": {
-        "id": "tc82u0",
-        "comments": 3,
-        "submitter": "jparise",
-        "tags": [
-          "practices",
-          "vcs",
-          "vibecoding"
-        ]
-      }
-    },
-    {
       "keyword": "Elevators",
       "source": "lobsters",
       "url": "https://john.fun/elevators",
-      "score": 15.3,
-      "traffic": "46 points",
+      "score": 16.0,
+      "traffic": "48 points",
       "category": "tech",
       "metadata": {
         "id": "jxqf1w",
@@ -1345,15 +1362,32 @@
       }
     },
     {
+      "keyword": "But can your calculator run Linux?",
+      "source": "lobsters",
+      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+      "score": 1.3,
+      "traffic": "4 points",
+      "category": "tech",
+      "metadata": {
+        "id": "voozor",
+        "comments": 0,
+        "submitter": "raymii",
+        "tags": [
+          "hardware",
+          "linux"
+        ]
+      }
+    },
+    {
       "keyword": "Ruby Central's Destructive Legacy",
       "source": "lobsters",
       "url": "https://andre.arko.net/2026/07/30/ruby-centrals-destructive-legacy/",
-      "score": 28.0,
-      "traffic": "84 points",
+      "score": 28.3,
+      "traffic": "85 points",
       "category": "tech",
       "metadata": {
         "id": "qvbkpa",
-        "comments": 27,
+        "comments": 31,
         "submitter": "soulcutter",
         "tags": [
           "ruby"
@@ -1373,6 +1407,23 @@
         "submitter": "ollien",
         "tags": [
           "rust"
+        ]
+      }
+    },
+    {
+      "keyword": "Apple Screen Sharing Pre-Auth RCE",
+      "source": "lobsters",
+      "url": "https://warez.sl0p.foo/apple-screensharing-rce/",
+      "score": 1.3,
+      "traffic": "4 points",
+      "category": "tech",
+      "metadata": {
+        "id": "t1wy9l",
+        "comments": 0,
+        "submitter": "fro",
+        "tags": [
+          "mac",
+          "security"
         ]
       }
     },
@@ -1401,7 +1452,7 @@
       "category": "tech",
       "metadata": {
         "id": "aj7msu",
-        "comments": 26,
+        "comments": 27,
         "submitter": "qznc",
         "tags": [
           "practices",
@@ -1422,6 +1473,22 @@
         "submitter": "kqr",
         "tags": [
           "games"
+        ]
+      }
+    },
+    {
+      "keyword": "What Naur got wrong from The concept of mind",
+      "source": "lobsters",
+      "url": "https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind",
+      "score": 1.3,
+      "traffic": "4 points",
+      "category": "tech",
+      "metadata": {
+        "id": "6yrhha",
+        "comments": 0,
+        "submitter": "intarga",
+        "tags": [
+          "philosophy"
         ]
       }
     },
@@ -1460,72 +1527,6 @@
       }
     },
     {
-      "keyword": "What Naur got wrong from The concept of mind",
-      "source": "lobsters",
-      "url": "https://tssm.neocities.org/what-naur-got-wrong-from-the-concept-of-mind",
-      "score": 1.0,
-      "traffic": "3 points",
-      "category": "tech",
-      "metadata": {
-        "id": "6yrhha",
-        "comments": 0,
-        "submitter": "intarga",
-        "tags": [
-          "philosophy"
-        ]
-      }
-    },
-    {
-      "keyword": "The Wheels We Keep Reinventing",
-      "source": "lobsters",
-      "url": "https://blainsmith.com/articles/reinventing-the-wheel/",
-      "score": 8.7,
-      "traffic": "26 points",
-      "category": "tech",
-      "metadata": {
-        "id": "nw7rzu",
-        "comments": 52,
-        "submitter": "ggpsv",
-        "tags": [
-          "practices"
-        ]
-      }
-    },
-    {
-      "keyword": "An old-new take on argument parsing in Rust",
-      "source": "lobsters",
-      "url": "https://jmmv.dev/2026/07/hello-getoptsargs.html",
-      "score": 0.3,
-      "traffic": "1 points",
-      "category": "tech",
-      "metadata": {
-        "id": "vrd28h",
-        "comments": 0,
-        "submitter": "jmmv",
-        "tags": [
-          "rust",
-          "unix"
-        ]
-      }
-    },
-    {
-      "keyword": "Guix shell now inside Emacs",
-      "source": "lobsters",
-      "url": "https://tusharhero.codeberg.page/guix-shell-in-emacs.html",
-      "score": 7.7,
-      "traffic": "23 points",
-      "category": "tech",
-      "metadata": {
-        "id": "uxsmk6",
-        "comments": 5,
-        "submitter": "tusharhero",
-        "tags": [
-          "emacs",
-          "nix"
-        ]
-      }
-    },
-    {
       "keyword": "nim",
       "source": "dockerhub",
       "url": "https://hub.docker.com/_/nim",
@@ -1534,7 +1535,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 1,
-        "pull_count": 44420,
+        "pull_count": 44454,
         "description": "Nim is a statically typed, imperative programming language focusing on efficiency and elegance."
       }
     },
@@ -1547,7 +1548,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 1,
-        "pull_count": 61737,
+        "pull_count": 61747,
         "description": "Azul Zulu is a fully tested, compatibility verified, and trusted binary distribution of OpenJDK."
       }
     },
@@ -1560,7 +1561,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 59,
-        "pull_count": 110013,
+        "pull_count": 110018,
         "description": "A light-weighted API Firewall to protect your API endpoints with API Schema validation."
       }
     },
@@ -1586,7 +1587,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 7,
-        "pull_count": 434999,
+        "pull_count": 435100,
         "description": "KrakenD is a stateless, high-performance, enterprise-ready, open source API gateway written in Go."
       }
     },
@@ -1608,11 +1609,11 @@
       "source": "dockerhub",
       "url": "https://hub.docker.com/_/satosa",
       "score": 0.0,
-      "traffic": "515K pulls",
+      "traffic": "516K pulls",
       "category": "devops",
       "metadata": {
         "star_count": 16,
-        "pull_count": 515496,
+        "pull_count": 515520,
         "description": "SATOSA translates between auth protocols such as SAML2, OpenID Connect, and OAuth2."
       }
     },
@@ -1625,7 +1626,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 28,
-        "pull_count": 527801,
+        "pull_count": 527812,
         "description": "Hitch is a libev-based high performance SSL/TLS proxy by Varnish Software."
       }
     },
@@ -1638,7 +1639,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 58,
-        "pull_count": 617306,
+        "pull_count": 617308,
         "description": "DEPRECATED; Official containers for Scientific Linux(SL)"
       }
     },
@@ -1664,7 +1665,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 47,
-        "pull_count": 724636,
+        "pull_count": 724638,
         "description": "DEPRECATED; Jobber is an alternative to cron, with sophisticated status-reporting and error-handling"
       }
     },
@@ -1690,7 +1691,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 72,
-        "pull_count": 839216,
+        "pull_count": 839226,
         "description": "The official build of ALT Linux."
       }
     },
@@ -1916,20 +1917,6 @@
       }
     },
     {
-      "keyword": "pydantic",
-      "source": "pypi",
-      "url": "https://pypi.org/project/pydantic/",
-      "score": 100,
-      "traffic": "40,559,079/day (262,831,759/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 40559079,
-        "last_week": 262831759,
-        "last_month": 1062245335,
-        "daily_growth": 8.0
-      }
-    },
-    {
       "keyword": "httpx",
       "source": "pypi",
       "url": "https://pypi.org/project/httpx/",
@@ -2112,68 +2099,29 @@
       }
     },
     {
-      "keyword": "Akedo",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/akedo",
-      "score": 10,
-      "traffic": "Rank #224",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "AKE",
-        "market_cap_rank": 224,
-        "thumb": "https://coin-images.coingecko.com/coins/images/68410/standard/akedo.png?1755678461"
-      }
-    },
-    {
       "keyword": "The Black Bull",
       "source": "coingecko",
       "url": "https://www.coingecko.com/en/coins/the-black-bull",
       "score": 10,
-      "traffic": "Rank #282",
+      "traffic": "Rank #290",
       "category": "crypto",
       "metadata": {
         "symbol": "ANSEM",
-        "market_cap_rank": 282,
+        "market_cap_rank": 290,
         "thumb": "https://coin-images.coingecko.com/coins/images/102174035/standard/IMG_9497.jpeg?1782005339"
       }
     },
     {
-      "keyword": "Pi Network",
+      "keyword": "GRVT Token",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/pi-network",
+      "url": "https://www.coingecko.com/en/coins/grvt",
       "score": 10,
-      "traffic": "Rank #68",
+      "traffic": "Rank #591",
       "category": "crypto",
       "metadata": {
-        "symbol": "PI",
-        "market_cap_rank": 68,
-        "thumb": "https://coin-images.coingecko.com/coins/images/54342/standard/pi_network.jpg?1739347576"
-      }
-    },
-    {
-      "keyword": "Pudgy Penguins",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
-      "score": 10,
-      "traffic": "Rank #112",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "PENGU",
-        "market_cap_rank": 112,
-        "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
-      }
-    },
-    {
-      "keyword": "Pump.fun",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/pump-fun",
-      "score": 10,
-      "traffic": "Rank #75",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "PUMP",
-        "market_cap_rank": 75,
-        "thumb": "https://coin-images.coingecko.com/coins/images/67164/standard/pump.jpg?1751949376"
+        "symbol": "GRVT",
+        "market_cap_rank": 591,
+        "thumb": "https://coin-images.coingecko.com/coins/images/102172513/standard/grvt_400x400.jpg?1773653767"
       }
     },
     {
@@ -2190,81 +2138,107 @@
       }
     },
     {
-      "keyword": "Akash Network",
+      "keyword": "Pump.fun",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/akash-network",
+      "url": "https://www.coingecko.com/en/coins/pump-fun",
       "score": 10,
-      "traffic": "Rank #204",
+      "traffic": "Rank #75",
       "category": "crypto",
       "metadata": {
-        "symbol": "AKT",
-        "market_cap_rank": 204,
-        "thumb": "https://coin-images.coingecko.com/coins/images/12785/standard/akash-logo.png?1696512580"
+        "symbol": "PUMP",
+        "market_cap_rank": 75,
+        "thumb": "https://coin-images.coingecko.com/coins/images/67164/standard/pump.jpg?1751949376"
       }
     },
     {
-      "keyword": "StonkBroker",
+      "keyword": "Akedo",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/stonkbroker",
+      "url": "https://www.coingecko.com/en/coins/akedo",
       "score": 10,
-      "traffic": "Rank #776",
+      "traffic": "Rank #218",
       "category": "crypto",
       "metadata": {
-        "symbol": "STONKBROKER",
-        "market_cap_rank": 776,
-        "thumb": "https://coin-images.coingecko.com/coins/images/102174654/standard/9gwu14e3hpizobkefg65k66l70wu.?1784445702"
+        "symbol": "AKE",
+        "market_cap_rank": 218,
+        "thumb": "https://coin-images.coingecko.com/coins/images/68410/standard/akedo.png?1755678461"
       }
     },
     {
-      "keyword": "Geodnet",
+      "keyword": "Internet Computer",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/geodnet",
+      "url": "https://www.coingecko.com/en/coins/internet-computer",
       "score": 10,
-      "traffic": "Rank #261",
+      "traffic": "Rank #61",
       "category": "crypto",
       "metadata": {
-        "symbol": "GEOD",
-        "market_cap_rank": 261,
-        "thumb": "https://coin-images.coingecko.com/coins/images/31608/standard/Circular_White.png?1696530424"
+        "symbol": "ICP",
+        "market_cap_rank": 61,
+        "thumb": "https://coin-images.coingecko.com/coins/images/14495/standard/Internet_Computer_logo.png?1696514180"
       }
     },
     {
-      "keyword": "Hedera",
+      "keyword": "Pudgy Penguins",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/hedera-hashgraph",
-      "score": 42,
-      "traffic": "Rank #29",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "HBAR",
-        "market_cap_rank": 29,
-        "thumb": "https://coin-images.coingecko.com/coins/images/3688/standard/hbar.png?1696504364"
-      }
-    },
-    {
-      "keyword": "Solstice",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/solstice",
+      "url": "https://www.coingecko.com/en/coins/pudgy-penguins",
       "score": 10,
-      "traffic": "Rank #781",
+      "traffic": "Rank #112",
       "category": "crypto",
       "metadata": {
-        "symbol": "SLX",
-        "market_cap_rank": 781,
-        "thumb": "https://coin-images.coingecko.com/coins/images/71128/standard/slx.png?1779455873"
+        "symbol": "PENGU",
+        "market_cap_rank": 112,
+        "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
       }
     },
     {
-      "keyword": "Solana",
+      "keyword": "Hyperliquid",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/solana",
-      "score": 86,
-      "traffic": "Rank #7",
+      "url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "score": 80,
+      "traffic": "Rank #10",
       "category": "crypto",
       "metadata": {
-        "symbol": "SOL",
-        "market_cap_rank": 7,
-        "thumb": "https://coin-images.coingecko.com/coins/images/4128/standard/solana.png?1718769756"
+        "symbol": "HYPE",
+        "market_cap_rank": 10,
+        "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
+      }
+    },
+    {
+      "keyword": "Polkadot",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/polkadot",
+      "score": 10,
+      "traffic": "Rank #55",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "DOT",
+        "market_cap_rank": 55,
+        "thumb": "https://coin-images.coingecko.com/coins/images/12171/standard/polkadot.jpg?1766533446"
+      }
+    },
+    {
+      "keyword": "Stellar",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/stellar",
+      "score": 60,
+      "traffic": "Rank #20",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "XLM",
+        "market_cap_rank": 20,
+        "thumb": "https://coin-images.coingecko.com/coins/images/100/standard/fmpFRHHQ_400x400.jpg?1735231350"
+      }
+    },
+    {
+      "keyword": "Avalanche",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/avalanche-2",
+      "score": 30,
+      "traffic": "Rank #35",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "AVAX",
+        "market_cap_rank": 35,
+        "thumb": "https://coin-images.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png?1696512369"
       }
     },
     {
@@ -2281,6 +2255,32 @@
       }
     },
     {
+      "keyword": "Cosmos Hub",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/cosmos",
+      "score": 10,
+      "traffic": "Rank #87",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "ATOM",
+        "market_cap_rank": 87,
+        "thumb": "https://coin-images.coingecko.com/coins/images/1481/standard/cosmos_hub.png?1696502525"
+      }
+    },
+    {
+      "keyword": "Canton",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/canton-network",
+      "score": 56,
+      "traffic": "Rank #22",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "CC",
+        "market_cap_rank": 22,
+        "thumb": "https://coin-images.coingecko.com/coins/images/70468/standard/Canton-Ticker_%281%29.png?1762826299"
+      }
+    },
+    {
       "keyword": "Bittensor",
       "source": "coingecko",
       "url": "https://www.coingecko.com/en/coins/bittensor",
@@ -2291,19 +2291,6 @@
         "symbol": "TAO",
         "market_cap_rank": 42,
         "thumb": "https://coin-images.coingecko.com/coins/images/28452/standard/ARUsPeNQ_400x400.jpeg?1696527447"
-      }
-    },
-    {
-      "keyword": "Ethereum",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/ethereum",
-      "score": 96,
-      "traffic": "Rank #2",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "ETH",
-        "market_cap_rank": 2,
-        "thumb": "https://coin-images.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
       }
     }
   ],
