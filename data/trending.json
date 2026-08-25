@@ -1,23 +1,37 @@
 {
-  "updated": "2026-08-26T03:06:13.471502+08:00",
+  "updated": "2026-08-26T03:52:14.569709+08:00",
   "source_count": {
     "global": 11,
     "wechat": 1
   },
-  "total_items": 173,
+  "total_items": 168,
   "global": [
     {
       "keyword": "Apple introduces M6 and M5 Ultra",
       "source": "hackernews",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
       "score": 100,
-      "traffic": "723 points",
+      "traffic": "767 points",
       "category": "tech",
       "metadata": {
         "id": 49433292,
         "by": "interpol_p",
-        "comments": 602,
+        "comments": 654,
         "hn_url": "https://news.ycombinator.com/item?id=49433292"
+      }
+    },
+    {
+      "keyword": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "source": "hackernews",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "score": 5.8,
+      "traffic": "29 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49439017,
+        "by": "sunnynagra",
+        "comments": 3,
+        "hn_url": "https://news.ycombinator.com/item?id=49439017"
       }
     },
     {
@@ -25,12 +39,12 @@
       "source": "hackernews",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
       "score": 100,
-      "traffic": "585 points",
+      "traffic": "614 points",
       "category": "tech",
       "metadata": {
         "id": 49433316,
         "by": "interpol_p",
-        "comments": 345,
+        "comments": 367,
         "hn_url": "https://news.ycombinator.com/item?id=49433316"
       }
     },
@@ -38,168 +52,154 @@
       "keyword": "Black hole singularity is a surface not a point",
       "source": "hackernews",
       "url": "https://arxiv.org/abs/2608.21590",
-      "score": 15.2,
-      "traffic": "76 points",
+      "score": 19.0,
+      "traffic": "95 points",
       "category": "tech",
       "metadata": {
         "id": 49437210,
         "by": "raattgift",
-        "comments": 30,
+        "comments": 45,
         "hn_url": "https://news.ycombinator.com/item?id=49437210"
       }
     },
     {
-      "keyword": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "keyword": "Show HN: I made a Raspberry with Qwen my local car AI",
       "source": "hackernews",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 15.6,
-      "traffic": "78 points",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "score": 4.4,
+      "traffic": "22 points",
       "category": "tech",
       "metadata": {
-        "id": 49434378,
-        "by": "bmulholland",
-        "comments": 19,
-        "hn_url": "https://news.ycombinator.com/item?id=49434378"
+        "id": 49435675,
+        "by": "petruspennanen",
+        "comments": 2,
+        "hn_url": "https://news.ycombinator.com/item?id=49435675"
       }
     },
     {
       "keyword": "My Friend Aaron",
       "source": "hackernews",
       "url": "https://rorz.io/writing/my-friend-aaron",
-      "score": 26.4,
-      "traffic": "132 points",
+      "score": 40.0,
+      "traffic": "200 points",
       "category": "tech",
       "metadata": {
         "id": 49437069,
         "by": "sarreph",
-        "comments": 33,
+        "comments": 45,
         "hn_url": "https://news.ycombinator.com/item?id=49437069"
-      }
-    },
-    {
-      "keyword": "Nitter project received cease and desist",
-      "source": "hackernews",
-      "url": "https://github.com/zedeus/nitter/issues/1442",
-      "score": 46.8,
-      "traffic": "234 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49437283,
-        "by": "Banditoz",
-        "comments": 154,
-        "hn_url": "https://news.ycombinator.com/item?id=49437283"
-      }
-    },
-    {
-      "keyword": "New Mac mini, featuring M6 and M5 Pro",
-      "source": "hackernews",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "score": 66.4,
-      "traffic": "332 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49433450,
-        "by": "runako",
-        "comments": 170,
-        "hn_url": "https://news.ycombinator.com/item?id=49433450"
-      }
-    },
-    {
-      "keyword": "Run OpenBSD on DigitalOcean for $4/month",
-      "source": "hackernews",
-      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "score": 7.4,
-      "traffic": "37 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49437483,
-        "by": "speckx",
-        "comments": 11,
-        "hn_url": "https://news.ycombinator.com/item?id=49437483"
       }
     },
     {
       "keyword": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
       "source": "hackernews",
       "url": "https://pgbot.dev/",
-      "score": 2.4,
-      "traffic": "12 points",
+      "score": 6.6,
+      "traffic": "33 points",
       "category": "tech",
       "metadata": {
         "id": 49438492,
         "by": "sashash",
-        "comments": 3,
+        "comments": 9,
         "hn_url": "https://news.ycombinator.com/item?id=49438492"
+      }
+    },
+    {
+      "keyword": "Run OpenBSD on DigitalOcean for $4/month",
+      "source": "hackernews",
+      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
+      "score": 10.4,
+      "traffic": "52 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49437483,
+        "by": "speckx",
+        "comments": 23,
+        "hn_url": "https://news.ycombinator.com/item?id=49437483"
+      }
+    },
+    {
+      "keyword": "New Mac mini, featuring M6 and M5 Pro",
+      "source": "hackernews",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+      "score": 69.2,
+      "traffic": "346 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49433450,
+        "by": "runako",
+        "comments": 183,
+        "hn_url": "https://news.ycombinator.com/item?id=49433450"
       }
     },
     {
       "keyword": "Dolly Parton has died",
       "source": "hackernews",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "score": 72.6,
-      "traffic": "363 points",
+      "score": 100,
+      "traffic": "578 points",
       "category": "tech",
       "metadata": {
         "id": 49438052,
         "by": "helsinkiandrew",
-        "comments": 48,
+        "comments": 88,
         "hn_url": "https://news.ycombinator.com/item?id=49438052"
       }
     },
     {
-      "keyword": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "keyword": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "source": "hackernews",
-      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "score": 35.4,
-      "traffic": "177 points",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "score": 27.8,
+      "traffic": "139 points",
       "category": "tech",
       "metadata": {
-        "id": 49434820,
-        "by": "speckx",
-        "comments": 112,
-        "hn_url": "https://news.ycombinator.com/item?id=49434820"
+        "id": 49434378,
+        "by": "bmulholland",
+        "comments": 91,
+        "hn_url": "https://news.ycombinator.com/item?id=49434378"
+      }
+    },
+    {
+      "keyword": "Nitter project received cease and desist",
+      "source": "hackernews",
+      "url": "https://github.com/zedeus/nitter/issues/1442",
+      "score": 57.2,
+      "traffic": "286 points",
+      "category": "tech",
+      "metadata": {
+        "id": 49437283,
+        "by": "Banditoz",
+        "comments": 195,
+        "hn_url": "https://news.ycombinator.com/item?id=49437283"
       }
     },
     {
       "keyword": "Show HN: LatticeDB – Like SQLite but for graph databases",
       "source": "hackernews",
       "url": "https://github.com/jeffhajewski/latticedb",
-      "score": 7.6,
-      "traffic": "38 points",
+      "score": 9.8,
+      "traffic": "49 points",
       "category": "tech",
       "metadata": {
         "id": 49437049,
         "by": "smiths1999",
-        "comments": 7,
+        "comments": 15,
         "hn_url": "https://news.ycombinator.com/item?id=49437049"
       }
     },
     {
-      "keyword": "A new ceiling for Λ: the de Bruijn–Newman constant",
+      "keyword": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "source": "hackernews",
-      "url": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
-      "score": 6.0,
-      "traffic": "30 points",
+      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+      "score": 37.0,
+      "traffic": "185 points",
       "category": "tech",
       "metadata": {
-        "id": 49437165,
-        "by": "judegomila",
-        "comments": 3,
-        "hn_url": "https://news.ycombinator.com/item?id=49437165"
-      }
-    },
-    {
-      "keyword": "Tooltips need a delay, and then they need to skip it",
-      "source": "hackernews",
-      "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-      "score": 8.6,
-      "traffic": "43 points",
-      "category": "tech",
-      "metadata": {
-        "id": 49436786,
-        "by": "ibobev",
-        "comments": 7,
-        "hn_url": "https://news.ycombinator.com/item?id=49436786"
+        "id": 49434820,
+        "by": "speckx",
+        "comments": 111,
+        "hn_url": "https://news.ycombinator.com/item?id=49434820"
       }
     },
     {
@@ -227,20 +227,6 @@
         "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
         "language": "Python",
         "stars_today": 350,
-        "total_stars": 0
-      }
-    },
-    {
-      "keyword": "sponsors/MadsLorentzen",
-      "source": "github",
-      "url": "https://github.com/sponsors/MadsLorentzen",
-      "score": 100,
-      "traffic": "1266 stars today (0 total)",
-      "category": "tech",
-      "metadata": {
-        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-        "language": "Python",
-        "stars_today": 1266,
         "total_stars": 0
       }
     },
@@ -413,11 +399,100 @@
       }
     },
     {
+      "keyword": "sponsors/asciimoo",
+      "source": "github",
+      "url": "https://github.com/sponsors/asciimoo",
+      "score": 33.2,
+      "traffic": "166 stars today (0 total)",
+      "category": "tech",
+      "metadata": {
+        "description": "Your own search engine",
+        "language": "Go",
+        "stars_today": 166,
+        "total_stars": 0
+      }
+    },
+    {
+      "keyword": "Find first match",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79998179/find-first-match",
+      "score": -0.2,
+      "traffic": "34 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "google-sheets",
+          "spreadsheet"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "vogomatix"
+      }
+    },
+    {
+      "keyword": "How to improve deep learning model sensitivity for subtle ordinal class transitions (e.g., Diabetic Retinopathy)?",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79998181/how-to-improve-deep-learning-model-sensitivity-for-subtle-ordinal-class-transiti",
+      "score": 0.2,
+      "traffic": "28 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "best-practices",
+          "python",
+          "machine-learning",
+          "deep-learning",
+          "computer-vision"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "Purujit Piyal Sana"
+      }
+    },
+    {
+      "keyword": "Deploy copilot studio agent to Teams channel using Azure DevOps pipeline",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79998183/deploy-copilot-studio-agent-to-teams-channel-using-azure-devops-pipeline",
+      "score": -0.2,
+      "traffic": "14 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "tooling-recommendation",
+          "azure-devops",
+          "azure-pipelines",
+          "agent",
+          "microsoft-copilot-studio"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "Flying Squirrel"
+      }
+    },
+    {
+      "keyword": "Django Channels redis.exceptions.TimeoutError: Timeout reading from 127.0.0.1:6379",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79998186/django-channels-redis-exceptions-timeouterror-timeout-reading-from-127-0-0-163",
+      "score": 0.0,
+      "traffic": "14 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "python",
+          "django",
+          "redis"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "Amythist Arira"
+      }
+    },
+    {
       "keyword": "Is this C++ compatiblity header setup for new features unavailable in older C++ versions a good idea?",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79998166/is-this-c-compatiblity-header-setup-for-new-features-unavailable-in-older-c",
       "score": 0.0,
-      "traffic": "37 views",
+      "traffic": "51 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -436,7 +511,7 @@
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79998172/while-executing-the-java-code-it-suddenly-showed-error",
       "score": -0.8,
-      "traffic": "28 views",
+      "traffic": "51 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -451,11 +526,30 @@
       }
     },
     {
+      "keyword": "How to use Hibernate StatelessSession with open-in-view",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79998175/how-to-use-hibernate-statelesssession-with-open-in-view",
+      "score": 0.0,
+      "traffic": "17 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "spring",
+          "spring-boot",
+          "hibernate",
+          "spring-mvc"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "Philippe Marschall"
+      }
+    },
+    {
       "keyword": "Closing the Popup in WPF",
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79998161/closing-the-popup-in-wpf",
       "score": 0.0,
-      "traffic": "17 views",
+      "traffic": "22 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -471,7 +565,7 @@
       "source": "stackoverflow",
       "url": "https://stackoverflow.com/questions/79998150/building-a-small-llm-in-c-should-i-perfect-each-component-before-moving-to-the",
       "score": -1.8,
-      "traffic": "122 views",
+      "traffic": "139 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -483,140 +577,11 @@
       }
     },
     {
-      "keyword": "Cannot set up MySQL database using Express and aiven hosted DB",
+      "keyword": "How to populate the foreign key value manually, or let SQL Server do it automatically?",
       "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79998148/cannot-set-up-mysql-database-using-express-and-aiven-hosted-db",
-      "score": -0.8,
-      "traffic": "44 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "javascript",
-          "mysql",
-          "express"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "Alberto Benedetto"
-      }
-    },
-    {
-      "keyword": "nanoff --version says You must install or update .NET to run this application",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79998149/nanoff-version-says-you-must-install-or-update-net-to-run-this-application",
-      "score": 0.0,
-      "traffic": "29 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "nanoframework"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "fingers10"
-      }
-    },
-    {
-      "keyword": "Reading \"WHO_AM_I\" register in MPU6050 issue",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79998140/reading-who-am-i-register-in-mpu6050-issue",
-      "score": 0.0,
-      "traffic": "29 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "c",
-          "i2c",
-          "stm32f4",
-          "stm32cubeide",
-          "mpu6050"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "MohammadAli Borna"
-      }
-    },
-    {
-      "keyword": "What's wrong with JS copying strings",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79998126/whats-wrong-with-js-copying-strings",
-      "score": -0.2,
-      "traffic": "95 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "javascript",
-          "string",
-          "debugging",
-          "copy"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "Tanaki"
-      }
-    },
-    {
-      "keyword": "How to extend class based off of template parameters?",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79998005/how-to-extend-class-based-off-of-template-parameters",
-      "score": 0.4,
-      "traffic": "161 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "c++",
-          "oop",
-          "templates",
-          "operator-overloading"
-        ],
-        "answer_count": 3,
-        "is_answered": true,
-        "owner": "Mohammed H."
-      }
-    },
-    {
-      "keyword": "How to recover salesforce cdc data?",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79998119/how-to-recover-salesforce-cdc-data",
-      "score": 0.6,
-      "traffic": "44 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "salesforce",
-          "data-warehouse",
-          "salesforce-development",
-          "salesforce-developer"
-        ],
-        "answer_count": 1,
-        "is_answered": false,
-        "owner": "Mia Smith"
-      }
-    },
-    {
-      "keyword": "Track and completely undo software installation changes on Debian",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79998129/track-and-completely-undo-software-installation-changes-on-debian",
-      "score": -0.8,
-      "traffic": "99 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "python",
-          "linux",
-          "debian"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "shahabgeek"
-      }
-    },
-    {
-      "keyword": "Should I populate the foreign key value manually, or let SQL Server do it automatically?",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79998123/should-i-populate-the-foreign-key-value-manually-or-let-sql-server-do-it-automa",
+      "url": "https://stackoverflow.com/questions/79998123/how-to-populate-the-foreign-key-value-manually-or-let-sql-server-do-it-automati",
       "score": 0.2,
-      "traffic": "74 views",
+      "traffic": "79 views",
       "category": "tech",
       "metadata": {
         "tags": [
@@ -632,58 +597,99 @@
       }
     },
     {
-      "keyword": "How to group column properly in html like in the image",
+      "keyword": "Cannot set up MySQL database using Express and aiven hosted DB",
       "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79998141/how-to-group-column-properly-in-html-like-in-the-image",
-      "score": -0.4,
-      "traffic": "26 views",
-      "category": "tech",
-      "metadata": {
-        "tags": [
-          "html",
-          "html-table"
-        ],
-        "answer_count": 0,
-        "is_answered": false,
-        "owner": "Dex"
-      }
-    },
-    {
-      "keyword": "How to learn total amount of articles in LivingsDocs CMS?",
-      "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79998138/how-to-learn-total-amount-of-articles-in-livingsdocs-cms",
+      "url": "https://stackoverflow.com/questions/79998148/cannot-set-up-mysql-database-using-express-and-aiven-hosted-db",
       "score": -0.8,
-      "traffic": "26 views",
+      "traffic": "52 views",
       "category": "tech",
       "metadata": {
         "tags": [
-          "livingsdocs"
+          "javascript",
+          "mysql",
+          "express"
         ],
         "answer_count": 0,
         "is_answered": false,
-        "owner": "Eugene Kaurov"
+        "owner": "Alberto Benedetto"
       }
     },
     {
-      "keyword": "Fix the aspect ratio of the components of a JTextPane",
+      "keyword": "Reading \"WHO_AM_I\" register in MPU6050 issue",
       "source": "stackoverflow",
-      "url": "https://stackoverflow.com/questions/79998111/fix-the-aspect-ratio-of-the-components-of-a-jtextpane",
+      "url": "https://stackoverflow.com/questions/79998140/reading-who-am-i-register-in-mpu6050-issue",
       "score": 0.0,
-      "traffic": "63 views",
+      "traffic": "34 views",
       "category": "tech",
       "metadata": {
         "tags": [
-          "java",
-          "swing",
-          "jtextpane"
+          "c",
+          "i2c",
+          "stm32f4",
+          "stm32cubeide",
+          "mpu6050"
         ],
         "answer_count": 0,
         "is_answered": false,
-        "owner": "Grinding For Reputation"
+        "owner": "MohammadAli Borna"
       }
     },
     {
-      "keyword": "donald trump",
+      "keyword": "nanoff --version says You must install or update .NET to run this application",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79998149/nanoff-version-says-you-must-install-or-update-net-to-run-this-application",
+      "score": 0.0,
+      "traffic": "32 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "nanoframework"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "fingers10"
+      }
+    },
+    {
+      "keyword": "How to extend class based off of template parameters?",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79998005/how-to-extend-class-based-off-of-template-parameters",
+      "score": 0.4,
+      "traffic": "166 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "c++",
+          "oop",
+          "templates",
+          "operator-overloading"
+        ],
+        "answer_count": 3,
+        "is_answered": true,
+        "owner": "Mohammed H."
+      }
+    },
+    {
+      "keyword": "What's wrong with JS copying strings",
+      "source": "stackoverflow",
+      "url": "https://stackoverflow.com/questions/79998126/whats-wrong-with-js-copying-strings",
+      "score": -0.4,
+      "traffic": "101 views",
+      "category": "tech",
+      "metadata": {
+        "tags": [
+          "javascript",
+          "string",
+          "debugging",
+          "copy"
+        ],
+        "answer_count": 0,
+        "is_answered": false,
+        "owner": "Tanaki"
+      }
+    },
+    {
+      "keyword": "chris olave",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -695,7 +701,7 @@
       }
     },
     {
-      "keyword": "sheffield wednesday vs wolves",
+      "keyword": "solar flare",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -707,7 +713,7 @@
       }
     },
     {
-      "keyword": "southampton vs west ham",
+      "keyword": "ipswich town vs leicester city",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -719,7 +725,7 @@
       }
     },
     {
-      "keyword": "birmingham vs brentford",
+      "keyword": "bodo glimt",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -731,7 +737,7 @@
       }
     },
     {
-      "keyword": "madonna",
+      "keyword": "john wayne",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -743,7 +749,7 @@
       }
     },
     {
-      "keyword": "ja'marr chase",
+      "keyword": "crimson desert enhanced",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -755,7 +761,7 @@
       }
     },
     {
-      "keyword": "daily mail",
+      "keyword": "bengals depth chart",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -767,7 +773,7 @@
       }
     },
     {
-      "keyword": "yahoo news",
+      "keyword": "calvin austin",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -779,7 +785,7 @@
       }
     },
     {
-      "keyword": "beyonce",
+      "keyword": "craig t nelson",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -791,7 +797,7 @@
       }
     },
     {
-      "keyword": "abc",
+      "keyword": "nottm forest vs leeds",
       "source": "google_trends",
       "url": "https://trends.google.com/trending?geo=",
       "score": 0,
@@ -803,21 +809,32 @@
       }
     },
     {
-      "keyword": "Gamescom Opening Night Live airs",
+      "keyword": "Dolly Parton passes away",
       "source": "bluesky",
-      "url": "https://bsky.app/search?q=Gamescom Opening Night Live airs",
+      "url": "https://bsky.app/search?q=Dolly Parton passes away",
       "score": 100,
       "traffic": "",
       "category": "social",
       "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6a6eec66d996"
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c0d11c16-e4d4-48d5-ac3a-e9d8a56cacea"
+      }
+    },
+    {
+      "keyword": "Dolly Parton passes away",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=Dolly Parton passes away",
+      "score": 95,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c5f7ff8a-d2ad-4973-b7cc-1c383421d898"
       }
     },
     {
       "keyword": "Kennedy Center finances decline post-rename",
       "source": "bluesky",
       "url": "https://bsky.app/search?q=Kennedy Center finances decline post-rename",
-      "score": 95,
+      "score": 90,
       "traffic": "",
       "category": "social",
       "metadata": {
@@ -825,54 +842,10 @@
       }
     },
     {
-      "keyword": "Critics accuse ICE of torture",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=Critics accuse ICE of torture",
-      "score": 90,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/59388188322b"
-      }
-    },
-    {
-      "keyword": "Dolly Parton passes away",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=Dolly Parton passes away",
-      "score": 85,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d91529514d42"
-      }
-    },
-    {
-      "keyword": "Anthropic touts $30T revenue potential",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=Anthropic touts $30T revenue potential",
-      "score": 80,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/592506f0ddf0"
-      }
-    },
-    {
-      "keyword": "Dolly Parton passes away",
-      "source": "bluesky",
-      "url": "https://bsky.app/search?q=Dolly Parton passes away",
-      "score": 75,
-      "traffic": "",
-      "category": "social",
-      "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/ec0b276222a6"
-      }
-    },
-    {
       "keyword": "Trump proposes renaming Lake Ontario",
       "source": "bluesky",
       "url": "https://bsky.app/search?q=Trump proposes renaming Lake Ontario",
-      "score": 70,
+      "score": 85,
       "traffic": "",
       "category": "social",
       "metadata": {
@@ -880,36 +853,69 @@
       }
     },
     {
-      "keyword": "Public backlash grows against AI data centers",
+      "keyword": "Canada announces retaliatory tariffs",
       "source": "bluesky",
-      "url": "https://bsky.app/search?q=Public backlash grows against AI data centers",
+      "url": "https://bsky.app/search?q=Canada announces retaliatory tariffs",
+      "score": 80,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5cc3b252e73e"
+      }
+    },
+    {
+      "keyword": "Gamescom Opening Night Live airs",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=Gamescom Opening Night Live airs",
+      "score": 75,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/6a6eec66d996"
+      }
+    },
+    {
+      "keyword": "Pennsylvania measles outbreak",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=Pennsylvania measles outbreak",
+      "score": 70,
+      "traffic": "",
+      "category": "social",
+      "metadata": {
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/577744e469b3"
+      }
+    },
+    {
+      "keyword": "Supreme Court mail voting case",
+      "source": "bluesky",
+      "url": "https://bsky.app/search?q=Supreme Court mail voting case",
       "score": 65,
       "traffic": "",
       "category": "social",
       "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/e024e6e6f115"
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fcdf284a86f0"
       }
     },
     {
-      "keyword": "Viral \"shrekking\" dating theory debated",
+      "keyword": "Jeffries meets Kushner privately",
       "source": "bluesky",
-      "url": "https://bsky.app/search?q=Viral \"shrekking\" dating theory debated",
+      "url": "https://bsky.app/search?q=Jeffries meets Kushner privately",
       "score": 60,
       "traffic": "",
       "category": "social",
       "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/9d290944c696"
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/65912830fe9d"
       }
     },
     {
-      "keyword": "El-Sayed clashes with Jesse Watters",
+      "keyword": "US military plane lands in Moscow",
       "source": "bluesky",
-      "url": "https://bsky.app/search?q=El-Sayed clashes with Jesse Watters",
+      "url": "https://bsky.app/search?q=US military plane lands in Moscow",
       "score": 55,
       "traffic": "",
       "category": "social",
       "metadata": {
-        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3fa51639ee1c"
+        "link": "/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5410e2c34143"
       }
     },
     {
@@ -917,7 +923,7 @@
       "source": "bluesky",
       "url": "at://did:plc:3guzzweuqraryl3rdkimjamk/app.bsky.feed.generator/for-you",
       "score": 100,
-      "traffic": "52566 likes",
+      "traffic": "52567 likes",
       "category": "feed",
       "metadata": {
         "type": "feed",
@@ -930,7 +936,7 @@
       "source": "bluesky",
       "url": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.feed.generator/whats-hot",
       "score": 100,
-      "traffic": "39374 likes",
+      "traffic": "39375 likes",
       "category": "feed",
       "metadata": {
         "type": "feed",
@@ -956,7 +962,7 @@
       "source": "bluesky",
       "url": "at://did:plc:tenurhgjptubkk5zf5qhi3og/app.bsky.feed.generator/mutuals",
       "score": 100,
-      "traffic": "28776 likes",
+      "traffic": "28775 likes",
       "category": "feed",
       "metadata": {
         "type": "feed",
@@ -969,7 +975,7 @@
       "source": "bluesky",
       "url": "at://did:plc:jfhpnnst6flqway4eaeqzj2a/app.bsky.feed.generator/for-science",
       "score": 100,
-      "traffic": "29427 likes",
+      "traffic": "29426 likes",
       "category": "feed",
       "metadata": {
         "type": "feed",
@@ -1000,12 +1006,12 @@
       "keyword": "What Do You Do While AI Codes?",
       "source": "devto",
       "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
-      "score": 3.2,
-      "traffic": "16 reactions",
+      "score": 3.4,
+      "traffic": "17 reactions",
       "category": "tech",
       "metadata": {
         "id": 4485862,
-        "comments": 12,
+        "comments": 13,
         "author": "anchildress1",
         "tags": [
           "discuss",
@@ -1019,8 +1025,8 @@
       "keyword": "comiCSS #255: Yellow",
       "source": "devto",
       "url": "https://dev.to/alvaromontoro/comicss-255-yellow-1bj",
-      "score": 1.8,
-      "traffic": "9 reactions",
+      "score": 2.0,
+      "traffic": "10 reactions",
       "category": "tech",
       "metadata": {
         "id": 4479062,
@@ -1167,6 +1173,25 @@
       }
     },
     {
+      "keyword": "The M5 Ultra Mac Studio: I Did the Math So You Don't Have To",
+      "source": "devto",
+      "url": "https://dev.to/arshtechpro/the-m5-ultra-mac-studio-i-did-the-math-so-you-dont-have-to-2g10",
+      "score": 1.4,
+      "traffic": "7 reactions",
+      "category": "tech",
+      "metadata": {
+        "id": 4486269,
+        "comments": 0,
+        "author": "arshtechpro",
+        "tags": [
+          "ai",
+          "programming",
+          "mobile",
+          "agents"
+        ]
+      }
+    },
+    {
       "keyword": "I Tried the Mysterious Ox Alpha Model. Then I Fell Down the Rabbit Hole of Who Actually Made It.",
       "source": "devto",
       "url": "https://dev.to/sizzlebop/i-tried-the-mysterious-ox-alpha-model-then-i-fell-down-the-rabbit-hole-of-who-actually-made-it-a4j",
@@ -1241,24 +1266,6 @@
       }
     },
     {
-      "keyword": "Bitwise and Otherwise: Understanding XOR Distance",
-      "source": "devto",
-      "url": "https://dev.to/lovestaco/bitwise-and-otherwise-understanding-xor-distance-1kh8",
-      "score": 1.0,
-      "traffic": "5 reactions",
-      "category": "tech",
-      "metadata": {
-        "id": 4487653,
-        "comments": 0,
-        "author": "lovestaco",
-        "tags": [
-          "algorithms",
-          "beginners",
-          "learning"
-        ]
-      }
-    },
-    {
       "keyword": "MNT Station - A modular, open hardware desktop computer and server",
       "source": "lobsters",
       "url": "https://www.crowdsupply.com/mnt-research/mnt-station",
@@ -1267,7 +1274,7 @@
       "category": "tech",
       "metadata": {
         "id": "jjspxh",
-        "comments": 18,
+        "comments": 19,
         "submitter": "hawski",
         "tags": [
           "hardware"
@@ -1278,12 +1285,12 @@
       "keyword": "I stabilized never type",
       "source": "lobsters",
       "url": "https://blog.ihatereality.space/0C-never-type/",
-      "score": 10.7,
-      "traffic": "32 points",
+      "score": 13.3,
+      "traffic": "40 points",
       "category": "tech",
       "metadata": {
         "id": "gizvfn",
-        "comments": 6,
+        "comments": 8,
         "submitter": "ettolrach",
         "tags": [
           "rust"
@@ -1291,11 +1298,27 @@
       }
     },
     {
+      "keyword": "The Move to Python 3 Begins",
+      "source": "lobsters",
+      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+      "score": 8.3,
+      "traffic": "25 points",
+      "category": "tech",
+      "metadata": {
+        "id": "e1oalq",
+        "comments": 5,
+        "submitter": "rmpr",
+        "tags": [
+          "python"
+        ]
+      }
+    },
+    {
       "keyword": "I cannot survive from burnout",
       "source": "lobsters",
       "url": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
-      "score": 70.0,
-      "traffic": "210 points",
+      "score": 70.7,
+      "traffic": "212 points",
       "category": "tech",
       "metadata": {
         "id": "0typpq",
@@ -1310,8 +1333,8 @@
       "keyword": "Migrating from Codeberg Pages to an OpenBSD VPS",
       "source": "lobsters",
       "url": "https://nemin.hu/vps/index.html",
-      "score": 8.0,
-      "traffic": "24 points",
+      "score": 8.3,
+      "traffic": "25 points",
       "category": "tech",
       "metadata": {
         "id": "4wh5ng",
@@ -1343,8 +1366,8 @@
       "keyword": "C2PA Cameras Do Not Survive Contact With Reality",
       "source": "lobsters",
       "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "score": 3.3,
-      "traffic": "10 points",
+      "score": 3.7,
+      "traffic": "11 points",
       "category": "tech",
       "metadata": {
         "id": "4netv1",
@@ -1358,34 +1381,35 @@
       }
     },
     {
-      "keyword": "The Move to Python 3 Begins",
+      "keyword": "Adding CPU affinity in a 24-core build machine made builds take longer",
       "source": "lobsters",
-      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-      "score": 4.7,
-      "traffic": "14 points",
+      "url": "https://infosec.exchange/@david_chisnall/117156204452541109",
+      "score": 7.0,
+      "traffic": "21 points",
       "category": "tech",
       "metadata": {
-        "id": "e1oalq",
+        "id": "ozkoqo",
         "comments": 2,
-        "submitter": "rmpr",
+        "submitter": "val",
         "tags": [
-          "python"
+          "hardware"
         ]
       }
     },
     {
-      "keyword": "Adding CPU affinity in a 24-core build machine made builds take longer",
+      "keyword": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
       "source": "lobsters",
-      "url": "https://infosec.exchange/@david_chisnall/117156204452541109",
-      "score": 6.3,
-      "traffic": "19 points",
+      "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+      "score": 4.7,
+      "traffic": "14 points",
       "category": "tech",
       "metadata": {
-        "id": "ozkoqo",
-        "comments": 1,
-        "submitter": "val",
+        "id": "apjhyj",
+        "comments": 0,
+        "submitter": "rw-rw-rw-",
         "tags": [
-          "hardware"
+          "go",
+          "linux"
         ]
       }
     },
@@ -1398,7 +1422,7 @@
       "category": "tech",
       "metadata": {
         "id": "k5feqe",
-        "comments": 21,
+        "comments": 24,
         "submitter": "giacomo_cavalieri",
         "tags": [
           "databases"
@@ -1409,8 +1433,8 @@
       "keyword": "Intent to Ship: JPEG XL",
       "source": "lobsters",
       "url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
-      "score": 31.3,
-      "traffic": "94 points",
+      "score": 31.7,
+      "traffic": "95 points",
       "category": "tech",
       "metadata": {
         "id": "26oj2u",
@@ -1419,23 +1443,6 @@
         "tags": [
           "browsers",
           "graphics"
-        ]
-      }
-    },
-    {
-      "keyword": "Hunting Down a Go Runtime Bug on 32-bit Embedded Systems",
-      "source": "lobsters",
-      "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-      "score": 3.3,
-      "traffic": "10 points",
-      "category": "tech",
-      "metadata": {
-        "id": "apjhyj",
-        "comments": 0,
-        "submitter": "rw-rw-rw-",
-        "tags": [
-          "go",
-          "linux"
         ]
       }
     },
@@ -1460,8 +1467,8 @@
       "keyword": "Your executable is a SQLite database",
       "source": "lobsters",
       "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-      "score": 65.0,
-      "traffic": "195 points",
+      "score": 65.3,
+      "traffic": "196 points",
       "category": "tech",
       "metadata": {
         "id": "8ttu5n",
@@ -1478,8 +1485,8 @@
       "keyword": "Can a blog post be handwritten?",
       "source": "lobsters",
       "url": "https://diggingforfire.blog/posts/can-a-blog-post-be-handwritten/",
-      "score": 20.0,
-      "traffic": "60 points",
+      "score": 20.3,
+      "traffic": "61 points",
       "category": "tech",
       "metadata": {
         "id": "wxjtxq",
@@ -1516,7 +1523,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 0,
-        "pull_count": 7689,
+        "pull_count": 7720,
         "description": "EspoCRM is a highly customizable open source CRM software."
       }
     },
@@ -1529,7 +1536,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 1,
-        "pull_count": 64066,
+        "pull_count": 64074,
         "description": "Nim is a statically typed, imperative programming language focusing on efficiency and elegance."
       }
     },
@@ -1542,7 +1549,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 1,
-        "pull_count": 92879,
+        "pull_count": 92950,
         "description": "Azul Zulu is a fully tested, compatibility verified, and trusted binary distribution of OpenJDK."
       }
     },
@@ -1555,7 +1562,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 59,
-        "pull_count": 116303,
+        "pull_count": 116305,
         "description": "A light-weighted API Firewall to protect your API endpoints with API Schema validation."
       }
     },
@@ -1581,7 +1588,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 84,
-        "pull_count": 465530,
+        "pull_count": 465532,
         "description": "DEPRECATED (upstream); use \"traefik\", \"nginx\", \"haproxy\", \"httpd\" instead"
       }
     },
@@ -1594,7 +1601,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 7,
-        "pull_count": 493350,
+        "pull_count": 493437,
         "description": "KrakenD is a stateless, high-performance, enterprise-ready, open source API gateway written in Go."
       }
     },
@@ -1607,7 +1614,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 16,
-        "pull_count": 528169,
+        "pull_count": 528183,
         "description": "SATOSA translates between auth protocols such as SAML2, OpenID Connect, and OAuth2."
       }
     },
@@ -1620,7 +1627,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 28,
-        "pull_count": 535983,
+        "pull_count": 536008,
         "description": "Hitch is a libev-based high performance SSL/TLS proxy by Varnish Software."
       }
     },
@@ -1633,7 +1640,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 58,
-        "pull_count": 618284,
+        "pull_count": 618285,
         "description": "DEPRECATED; Official containers for Scientific Linux(SL)"
       }
     },
@@ -1646,7 +1653,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 49,
-        "pull_count": 658525,
+        "pull_count": 658526,
         "description": "DEPRECATED; lacking active maintainer"
       }
     },
@@ -1672,7 +1679,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 47,
-        "pull_count": 725746,
+        "pull_count": 725748,
         "description": "DEPRECATED; Jobber is an alternative to cron, with sophisticated status-reporting and error-handling"
       }
     },
@@ -1685,7 +1692,7 @@
       "category": "devops",
       "metadata": {
         "star_count": 72,
-        "pull_count": 844871,
+        "pull_count": 844878,
         "description": "The official build of ALT Linux."
       }
     },
@@ -1898,6 +1905,20 @@
       }
     },
     {
+      "keyword": "pydantic",
+      "source": "pypi",
+      "url": "https://pypi.org/project/pydantic/",
+      "score": 100,
+      "traffic": "39,255,759/day (275,539,173/week)",
+      "category": "python",
+      "metadata": {
+        "last_day": 39255759,
+        "last_week": 275539173,
+        "last_month": 1180807647,
+        "daily_growth": -0.3
+      }
+    },
+    {
       "keyword": "uvicorn",
       "source": "pypi",
       "url": "https://pypi.org/project/uvicorn/",
@@ -1912,31 +1933,17 @@
       }
     },
     {
-      "keyword": "ruff",
+      "keyword": "mcp",
       "source": "pypi",
-      "url": "https://pypi.org/project/ruff/",
+      "url": "https://pypi.org/project/mcp/",
       "score": 100,
-      "traffic": "12,465,623/day (81,436,877/week)",
+      "traffic": "11,205,667/day (81,592,475/week)",
       "category": "python",
       "metadata": {
-        "last_day": 12465623,
-        "last_week": 81436877,
-        "last_month": 334795187,
-        "daily_growth": 7.1
-      }
-    },
-    {
-      "keyword": "langchain",
-      "source": "pypi",
-      "url": "https://pypi.org/project/langchain/",
-      "score": 100,
-      "traffic": "8,066,321/day (56,550,620/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 8066321,
-        "last_week": 56550620,
-        "last_month": 259059269,
-        "daily_growth": -0.2
+        "last_day": 11205667,
+        "last_week": 81592475,
+        "last_month": 360819237,
+        "daily_growth": -3.9
       }
     },
     {
@@ -1954,73 +1961,16 @@
       }
     },
     {
-      "keyword": "uv",
-      "source": "pypi",
-      "url": "https://pypi.org/project/uv/",
-      "score": 100,
-      "traffic": "6,508,491/day (48,246,579/week)",
-      "category": "python",
+      "keyword": "Hyperliquid",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/hyperliquid",
+      "score": 80,
+      "traffic": "Rank #10",
+      "category": "crypto",
       "metadata": {
-        "last_day": 6508491,
-        "last_week": 48246579,
-        "last_month": 201036871,
-        "daily_growth": -5.6
-      }
-    },
-    {
-      "keyword": "transformers",
-      "source": "pypi",
-      "url": "https://pypi.org/project/transformers/",
-      "score": 100,
-      "traffic": "6,013,010/day (47,418,639/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 6013010,
-        "last_week": 47418639,
-        "last_month": 198310595,
-        "daily_growth": -11.2
-      }
-    },
-    {
-      "keyword": "polars",
-      "source": "pypi",
-      "url": "https://pypi.org/project/polars/",
-      "score": 100,
-      "traffic": "2,261,333/day (16,048,349/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 2261333,
-        "last_week": 16048349,
-        "last_month": 76993669,
-        "daily_growth": -1.4
-      }
-    },
-    {
-      "keyword": "crewai",
-      "source": "pypi",
-      "url": "https://pypi.org/project/crewai/",
-      "score": 100,
-      "traffic": "1,138,829/day (10,697,038/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 1138829,
-        "last_week": 10697038,
-        "last_month": 31350884,
-        "daily_growth": -25.5
-      }
-    },
-    {
-      "keyword": "autogen",
-      "source": "pypi",
-      "url": "https://pypi.org/project/autogen/",
-      "score": 1.0,
-      "traffic": "4,785/day (34,223/week)",
-      "category": "python",
-      "metadata": {
-        "last_day": 4785,
-        "last_week": 34223,
-        "last_month": 159312,
-        "daily_growth": -2.1
+        "symbol": "HYPE",
+        "market_cap_rank": 10,
+        "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
       }
     },
     {
@@ -2037,16 +1987,29 @@
       }
     },
     {
-      "keyword": "Pons",
+      "keyword": "LayerZero",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/pons",
+      "url": "https://www.coingecko.com/en/coins/layerzero",
       "score": 10,
-      "traffic": "Rank #347",
+      "traffic": "Rank #116",
       "category": "crypto",
       "metadata": {
-        "symbol": "PONS",
-        "market_cap_rank": 347,
-        "thumb": "https://coin-images.coingecko.com/coins/images/102174571/standard/jhitvkisdq8fhxvimdkpcw7y3dx5.?1784093932"
+        "symbol": "ZRO",
+        "market_cap_rank": 116,
+        "thumb": "https://coin-images.coingecko.com/coins/images/28206/standard/ftxG9_TJ_400x400.jpeg?1696527208"
+      }
+    },
+    {
+      "keyword": "Cash Cat",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/cash-cat",
+      "score": 10,
+      "traffic": "Rank #171",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "CASHCAT",
+        "market_cap_rank": 171,
+        "thumb": "https://coin-images.coingecko.com/coins/images/102174280/standard/cashcat-logo.jpg?1782922765"
       }
     },
     {
@@ -2063,107 +2026,29 @@
       }
     },
     {
-      "keyword": "Hyperliquid",
+      "keyword": "Pons",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/hyperliquid",
-      "score": 80,
-      "traffic": "Rank #10",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "HYPE",
-        "market_cap_rank": 10,
-        "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
-      }
-    },
-    {
-      "keyword": "Cash Cat",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/cash-cat",
+      "url": "https://www.coingecko.com/en/coins/pons",
       "score": 10,
-      "traffic": "Rank #168",
+      "traffic": "Rank #329",
       "category": "crypto",
       "metadata": {
-        "symbol": "CASHCAT",
-        "market_cap_rank": 168,
-        "thumb": "https://coin-images.coingecko.com/coins/images/102174280/standard/cashcat-logo.jpg?1782922765"
-      }
-    },
-    {
-      "keyword": "LayerZero",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/layerzero",
-      "score": 10,
-      "traffic": "Rank #116",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "ZRO",
-        "market_cap_rank": 116,
-        "thumb": "https://coin-images.coingecko.com/coins/images/28206/standard/ftxG9_TJ_400x400.jpeg?1696527208"
+        "symbol": "PONS",
+        "market_cap_rank": 329,
+        "thumb": "https://coin-images.coingecko.com/coins/images/102174571/standard/jhitvkisdq8fhxvimdkpcw7y3dx5.?1784093932"
       }
     },
     {
       "keyword": "Zcash",
       "source": "coingecko",
       "url": "https://www.coingecko.com/en/coins/zcash",
-      "score": 76,
-      "traffic": "Rank #12",
+      "score": 74,
+      "traffic": "Rank #13",
       "category": "crypto",
       "metadata": {
         "symbol": "ZEC",
-        "market_cap_rank": 12,
+        "market_cap_rank": 13,
         "thumb": "https://coin-images.coingecko.com/coins/images/486/standard/Brandmark-Yellow_%281%29.png?1785810558"
-      }
-    },
-    {
-      "keyword": "Pump.fun",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/pump-fun",
-      "score": 10,
-      "traffic": "Rank #50",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "PUMP",
-        "market_cap_rank": 50,
-        "thumb": "https://coin-images.coingecko.com/coins/images/67164/standard/pump.jpg?1751949376"
-      }
-    },
-    {
-      "keyword": "Ethena",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/ethena",
-      "score": 10,
-      "traffic": "Rank #58",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "ENA",
-        "market_cap_rank": 58,
-        "thumb": "https://coin-images.coingecko.com/coins/images/36530/standard/ethena.png?1711701436"
-      }
-    },
-    {
-      "keyword": "Aerodrome Finance",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/aerodrome-finance",
-      "score": 10,
-      "traffic": "Rank #102",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "AERO",
-        "market_cap_rank": 102,
-        "thumb": "https://coin-images.coingecko.com/coins/images/31745/standard/token.png?1696530564"
-      }
-    },
-    {
-      "keyword": "Sui",
-      "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/sui",
-      "score": 36,
-      "traffic": "Rank #32",
-      "category": "crypto",
-      "metadata": {
-        "symbol": "SUI",
-        "market_cap_rank": 32,
-        "thumb": "https://coin-images.coingecko.com/coins/images/26375/standard/sui-ocean-square.png?1727791290"
       }
     },
     {
@@ -2171,38 +2056,38 @@
       "source": "coingecko",
       "url": "https://www.coingecko.com/en/coins/dog-go-to-the-moon-rune",
       "score": 10,
-      "traffic": "Rank #211",
+      "traffic": "Rank #208",
       "category": "crypto",
       "metadata": {
         "symbol": "DOG",
-        "market_cap_rank": 211,
+        "market_cap_rank": 208,
         "thumb": "https://coin-images.coingecko.com/coins/images/37352/standard/DOGGOTOTHEMOON.png?1714096969"
       }
     },
     {
-      "keyword": "Aligned",
+      "keyword": "Lighter",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/aligned",
+      "url": "https://www.coingecko.com/en/coins/lighter",
       "score": 10,
-      "traffic": "Rank #775",
+      "traffic": "Rank #78",
       "category": "crypto",
       "metadata": {
-        "symbol": "ALIGN",
-        "market_cap_rank": 775,
-        "thumb": "https://coin-images.coingecko.com/coins/images/53011/standard/signal-2024-12-23-194306_002.png?1735012833"
+        "symbol": "LIT",
+        "market_cap_rank": 78,
+        "thumb": "https://coin-images.coingecko.com/coins/images/71121/standard/lighter.png?1765888098"
       }
     },
     {
-      "keyword": "Venice Token",
+      "keyword": "XRP",
       "source": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/venice-token",
-      "score": 10,
-      "traffic": "Rank #76",
+      "url": "https://www.coingecko.com/en/coins/ripple",
+      "score": 90,
+      "traffic": "Rank #5",
       "category": "crypto",
       "metadata": {
-        "symbol": "VVV",
-        "market_cap_rank": 76,
-        "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
+        "symbol": "XRP",
+        "market_cap_rank": 5,
+        "thumb": "https://coin-images.coingecko.com/coins/images/44/standard/xrp-symbol-white-128.png?1696501442"
       }
     },
     {
@@ -2216,6 +2101,58 @@
         "symbol": "ETH",
         "market_cap_rank": 2,
         "thumb": "https://coin-images.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
+      }
+    },
+    {
+      "keyword": "Pepe",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/pepe",
+      "score": 10,
+      "traffic": "Rank #53",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "PEPE",
+        "market_cap_rank": 53,
+        "thumb": "https://coin-images.coingecko.com/coins/images/29850/standard/pepe-token.jpeg?1696528776"
+      }
+    },
+    {
+      "keyword": "peaq",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/peaq-2",
+      "score": 10,
+      "traffic": "Rank #408",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "PEAQ",
+        "market_cap_rank": 408,
+        "thumb": "https://coin-images.coingecko.com/coins/images/51415/standard/peaq-token-brand-icon_%281%29.png?1731122664"
+      }
+    },
+    {
+      "keyword": "The Index",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/the-index",
+      "score": 10,
+      "traffic": "Rank #910",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "INDEX",
+        "market_cap_rank": 910,
+        "thumb": "https://coin-images.coingecko.com/coins/images/102174740/standard/qffiSdBd_400x400_%281%29.jpg?1784708104"
+      }
+    },
+    {
+      "keyword": "Derive",
+      "source": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/derive",
+      "score": 10,
+      "traffic": "Rank #202",
+      "category": "crypto",
+      "metadata": {
+        "symbol": "DRV",
+        "market_cap_rank": 202,
+        "thumb": "https://coin-images.coingecko.com/coins/images/52889/standard/Token_Logo.png?1734601695"
       }
     }
   ],
@@ -2248,6 +2185,15 @@
       "metadata": {}
     },
     {
+      "keyword": "江苏常州通报“星宇股份被曝批量劝退应届生”：企业人力资源总监被停职",
+      "source": "wechat",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33847318",
+      "score": 0,
+      "traffic": "",
+      "category": "news",
+      "metadata": {}
+    },
+    {
       "keyword": "网售新型避责术曝光：“100%蚕丝衫”无蚕丝，售假者玩“店铺矩阵”规避监管",
       "source": "wechat",
       "url": "https://www.thepaper.cn/newsDetail_forward_33840657",
@@ -2266,9 +2212,9 @@
       "metadata": {}
     },
     {
-      "keyword": "江苏常州通报“星宇股份被曝批量劝退应届生”：企业人力资源总监被停职",
+      "keyword": "追问“甲醛白菜”：将甲醛纳入检测有无必要？在哪个环节发力更有效率？",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33847318",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33839813",
       "score": 0,
       "traffic": "",
       "category": "news",
@@ -2284,15 +2230,6 @@
       "metadata": {}
     },
     {
-      "keyword": "2026鲁迅文学周丨2005年后出生的人如何理解鲁迅？",
-      "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33840474",
-      "score": 0,
-      "traffic": "",
-      "category": "news",
-      "metadata": {}
-    },
-    {
       "keyword": "条漫｜“甲醛白菜”背后：一颗白菜的“保鲜”账",
       "source": "wechat",
       "url": "https://www.thepaper.cn/newsDetail_forward_33806203",
@@ -2302,9 +2239,9 @@
       "metadata": {}
     },
     {
-      "keyword": "追问“甲醛白菜”：将甲醛纳入检测有无必要？在哪个环节发力更有效率？",
+      "keyword": "2026鲁迅文学周丨2005年后出生的人如何理解鲁迅？",
       "source": "wechat",
-      "url": "https://www.thepaper.cn/newsDetail_forward_33839813",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33840474",
       "score": 0,
       "traffic": "",
       "category": "news",
